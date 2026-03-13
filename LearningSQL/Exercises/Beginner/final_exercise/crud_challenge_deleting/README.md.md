@@ -2,7 +2,7 @@
 
 
 
-Delete all shirts with a last worn number of 200
+Delete all shirts with a last worn date of 200 days ago
 
 
 
