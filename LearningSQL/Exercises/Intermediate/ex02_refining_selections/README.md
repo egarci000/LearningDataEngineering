@@ -6,6 +6,8 @@ Using TABLE books inside DATABASE book\_shop
 
 
 
+```
+
 &#x20;books | CREATE TABLE `books` (
 
 &#x20; `book\_id` int NOT NULL AUTO\_INCREMENT,
@@ -25,6 +27,8 @@ Using TABLE books inside DATABASE book\_shop
 &#x20; PRIMARY KEY (`book\_id`)
 
 ) 
+
+```
 
 
 
