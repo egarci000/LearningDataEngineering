@@ -1,1 +1,1 @@
-# My path to learning Data Engineering
+# My path to learning Data Engineering, starting with MySQL
