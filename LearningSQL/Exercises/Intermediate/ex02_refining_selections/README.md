@@ -34,6 +34,8 @@ Using TABLE books inside DATABASE book\_shop
 
 ```
 
+
+
 |----------------|--------------|------|-----|---------|----------------|
 
 | Field          | Type         | Null | Key | Default | Extra          |
@@ -55,6 +57,8 @@ Using TABLE books inside DATABASE book\_shop
 | pages          | int          | YES  |     | NULL    |                |
 
 |----------------|--------------|------|-----|---------|----------------|
+
+
 
 ```
 
