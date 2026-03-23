@@ -6,8 +6,6 @@ Using TABLE books inside DATABASE book\_shop
 
 
 
-```
-
 CREATE TABLE books (
 
 &#x09;book\_id int NOT NULL AUTO\_INCREMENT,
@@ -28,7 +26,7 @@ CREATE TABLE books (
 
 ) 
 
-```
+
 
 
 
