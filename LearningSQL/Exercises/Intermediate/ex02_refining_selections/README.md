@@ -8,23 +8,23 @@ Using TABLE books inside DATABASE book\_shop
 
 ```
 
-&#x20;books | CREATE TABLE `books` (
+CREATE TABLE books (
 
-&#x20; `book\_id` int NOT NULL AUTO\_INCREMENT,
+&#x09;book\_id int NOT NULL AUTO\_INCREMENT,
 
-&#x20; `title` varchar(100) DEFAULT NULL,
+&#x09;title varchar(100) DEFAULT NULL,	
 
-&#x20; `author\_fname` varchar(100) DEFAULT NULL,
+&#x09;author\_fname varchar(100) DEFAULT NULL,
 
-&#x20; `author\_lname` varchar(100) DEFAULT NULL,
+&#x09;author\_lname varchar(100) DEFAULT NULL, 
 
-&#x20; `released\_year` int DEFAULT NULL,
+&#x09;released\_year int DEFAULT NULL,
 
-&#x20; `stock\_quantity` int DEFAULT NULL,
+&#x09;stock\_quantity int DEFAULT NULL,
 
-&#x20; `pages` int DEFAULT NULL,
+&#x09;pages int DEFAULT NULL,
 
-&#x20; PRIMARY KEY (`book\_id`)
+&#x09;PRIMARY KEY (`book\_id`)
 
 ) 
 
