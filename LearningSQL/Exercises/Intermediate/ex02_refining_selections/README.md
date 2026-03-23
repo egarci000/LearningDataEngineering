@@ -1,68 +1,12 @@
-Using TABLE books inside DATABASE book\_shop
+## Exercises:
 
 
 
-\# Create table layout
-
-
-
-CREATE TABLE books (
-
-&#x09;book\_id int NOT NULL AUTO\_INCREMENT,
-
-&#x09;title varchar(100) DEFAULT NULL,	
-
-&#x09;author\_fname varchar(100) DEFAULT NULL,
-
-&#x09;author\_lname varchar(100) DEFAULT NULL, 
-
-&#x09;released\_year int DEFAULT NULL,
-
-&#x09;stock\_quantity int DEFAULT NULL,
-
-&#x09;pages int DEFAULT NULL,
-
-&#x09;PRIMARY KEY (`book\_id`)
-
-) 
-
-
-
-
-
-\# Markdown table
-
-
-
-
-
-|----------------|--------------|------|-----|---------|----------------|
-
-| Field          | Type         | Null | Key | Default | Extra          |
-
-|----------------|--------------|------|-----|---------|----------------|
-
-| book\_id        | int          | NO   | PRI | NULL    | auto\_increment |
-
-| title          | varchar(100) | YES  |     | NULL    |                |
-
-| author\_fname   | varchar(100) | YES  |     | NULL    |                |
-
-| author\_lname   | varchar(100) | YES  |     | NULL    |                |
-
-| released\_year  | int          | YES  |     | NULL    |                |
-
-| stock\_quantity | int          | YES  |     | NULL    |                |
-
-| pages          | int          | YES  |     | NULL    |                |
-
-|----------------|--------------|------|-----|---------|----------------|
-
-
-
-
-
-
-
-
+1. Select all story collections. Titles that contain the string, 'stories'
+2. Find the longest book by page count. Print out title and page count. Find using only things learning in refining selections section, not keywords like MAX.
+3. Print a summary containing the title and year, for the 3 most recent books. Example format: 'Book title - released\_year', etc.
+4. Find all books with an author last name that contains a space (' '). Return title and author\_lname
+5. Find the 3 books with the lowest stock available. Select title, year, and stock
+6. Print title and author last name, sorted first by author last name then title
+7. Print out the example format for every book in the table: 'MY FAVORITE AUTHOR IS \[AUTHOR FIRST NAME] \[AUTHOR LAST NAME]' sorted alphabetically by last name
 
