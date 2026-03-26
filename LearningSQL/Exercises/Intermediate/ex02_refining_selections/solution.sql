@@ -17,8 +17,8 @@ LIMIT 1;
 -- 3. Print a summary containing the title and year, for the 3 most recent books. 
 -- Example format: 'Book title - released_year', etc.ALTER
 
--- Concat then order by released year in descending order and limit results to 3
-SELECT CONCAT(title, ' - ', released_year) FROM books
+-- Concat as summary then order by released year in descending order and limit results to 3
+SELECT CONCAT(title, ' - ', released_year) AS summary FROM books
 ORDER BY released_year DESC
 LIMIT 3;
 
