@@ -1,0 +1,516 @@
+customer_id,first_name,last_name,age,gender,city,state,income_bracket,occupation,customer_since,total_spend_usd,purchase_frequency_per_year,preferred_contact,email,phone,favorite_activities,outdoors_freq_per_month,gear_ownership,eco_priority,budget_per_purchase,travels_for_outdoor,dog_owner,social_platforms,heard_about_radius,nps_score,satisfaction_score,shopping_preference
+RS-57602,Benjamin,Miller,58,Prefer not to say,Missoula,MT,$75k-$100k,Chef,"Sep 27, 2015",2065.89,14,EMAIL,bmiller@icloud.com,(824) 734-9247,,,,,,,,,,,,
+RS-88654,Deborah,Hernandez,31,Female,Bozeman,mt,$30k-$50k,Electrician,7/25/2022,2502.61,4,TEXT,,(658) 898-4179,,,,,,,,,,,,
+RS-32245,Barbara,Young,0,Male,Idaho Falls,ID,$30k-$50k,,6/24/2018,1026.52,2,phone call,byoung742@gmail.com,(651) 585-9276,,,,,,,,,,,,
+RS-41094,Samantha,Anderson,62,Female,Portland,OR,<$30k,Flight Attendant,4/4/2017,254.3,16,phone,sanderson477@aol.com,(490) 591-1112,,,,,,,,,,,,
+RS-51670,jennifer,Nguyen,47,Male,Cheyenne,wy,$50k-$75k,HR Manager,,1824.9,18,Email,jnguyen@hotmail.com,(217) 733-3783,,,,,,,,,,,,
+RS-84912,Melissa,Davis,69,Male,Cheyenne,Wyo.,<$30k,Software Engineer,"Oct 26, 2019",1136.41,7,TEXT,davism@yahoo.com,,,,,,,,,,,,,
+RS-95162,Donald,Lewis,23,Prefer not to say,BEND,OR,$30k-$50k,HR Manager,2022-01-28,1729.82,1,EMAIL,donald75@aol.com,(767) 397-1606,,,,,,,,,,,,
+RS-36163,Jennifer,Williams,61,,Chattanooga,TN,$150k+,Pharmacist,2017-10-17,679.35,20,PHONE,jennifer12@aol.com,(938) 627-3314,,,,,,,,,,,,
+RS-39333,Charles,Green,60,Non-binary,ASHEVILLE,NC,$75k-$100k,Lawyer,10/19/2020,2157.11,3,TEXT,cgreen254@hotmail.com,(761) 262-8903,,,,,,,,,,,,
+RS-89129,Steven,Johnson,66,Non-binary,Fort Collins,CO,$50k-$75k,Flight Attendant,"Feb 16, 2022",358.57,16,EMAIL,sjohnson475@gmail.com,(458) 431-2899,,,,,,,,,,,,
+RS-11398,Nancy,Anderson,,Prefer not to say,Portland,OR,,Photographer,"May 24, 2022",2883.09,20,EMAIL,nancy_anderson@yahoo.com,(278) 418-2161,,,,,,,,,,,,
+RS-13574,Deborah,Hernandez,31,Female,Bozeman,mt,$30k-$50k,Electrician,7/25/2022,2502.61,4,TEXT,,(658) 898-4179,,,,,,,,,,,,
+RS-55229,Michael,Nelson,47,Non-binary,Chattanooga,TN,$150k+,Physical Therapist,2021-01-10,1614.25,18,EMAIL,michael_nelson@outlook.com,(300) 361-7408,,,,,,,,,,,,
+RS-98225,Katherine,Carter,28,Non-binary,Provo,UT,<$30k,Optometrist,09/02/2018,2046.94,17,,,(832) 332-2977,,,,,,,,,,,,
+RS-22664,Nicholas,Campbell,56,Non-binary,Missoula,MT,$75k-$100k,Marketing Manager,2017-01-18,1075.43,12,phone,ncampbell@aol.com,(641) 821-3184,,,,,,,,,,,,
+RS-57416,Justin,Young,48,Male,Boise,ID,<$30k,Consultant,06/06/2017,2740.71,17,Phone,youngj@gmail.com,(371) 656-6285,,,,,,,,,,,,
+RS-17503,Benjamin,Carter,40,Male,Burlington,VT,$30k-$50k,Pilot,08/17/2019,902.48,13,TEXT,bcarter@gmail.com,(202) 777-5280,,,,,,,,,,,,
+RS-23114,Frank,Hall,60,Non-binary,Boise,ID,<$30k,Professor,2019-01-10,2875.93,19,Phone,fhall447@hotmail.com,(278) 767-5945,,,,,,,,,,,,
+RS-48365,Brian,Martinez,36,Male,JACKSON,Wyo.,$100k-$150k,Physical Therapist,11/19/2017,2147.65,2,phone call,martinezb@outlook.com,(788) 102-4443,,,,,,,,,,,,
+RS-99861,Carol,Walker,26,Female,Portland,ME,<$30k,Construction Manager,09/25/2023,2710.86,100,text,cwalker244@hotmail.com,(693) 908-7246,,,,,,,,,,,,
+RS-28355,Kimberly,Roberts,59,Prefer not to say,Spokane,WA,$30k-$50k,Flight Attendant,2020-10-20,,4,phone call,robertsk@aol.com,(307) 278-7292,,,,,,,,,,,,
+RS-85456,Timothy,Young,44,Female,Knoxville,Tenn.,$75k-$100k,Consultant,01/13/2023,2607.21,11,text,timothy97@outlook.com,(631) 358-2341,,,,,,,,,,,,
+RS-69699,Debra,Hernandez,28,,Provo,UT,<$30k,Firefighter,"Jul 9, 2017",2665.62,3,e-mail,debra_hernandez@yahoo.com,(414) 866-7520,,,,,,,,,,,,
+RS-72146,Deborah,Brown,22,Non-binary,Boulder,Col.,$30k-$50k,Real Estate Agent,6/12/2017,1233.87,15,,brownd@aol.com,(817) 267-1007,,,,,,,,,,,,
+RS-99443,Anna,Martinez,19,Male,Boulder,CO,$75k-$100k,Geologist,2020-08-19,2699.93,8,phone,amartinez@yahoo.com,(666) 270-3634,,,,,,,,,,,,
+RS-82883,Jonathan,Wright,63,Male,Bozeman,MT,$30k-$50k,,2/2/2020,309.07,3,TEXT,jwright443@yahoo.com,(873) 100-5068,,,,,,,,,,,,
+RS-83137,Justin,Rivera,67,Female,Las Vegas,NV,<$30k,Doctor,8/26/2020,337.99,3,Phone,,(311) 793-3692,,,,,,,,,,,,
+RS-96623,Karen,Robinson,30,Non-binary,Albuquerque,NM,$75k-$100k,Journalist,2015-10-17,234.11,1,text,karen_robinson@gmail.com,(919) 704-7459,,,,,,,,,,,,
+RS-16436,Gary,Young,66,Female,Bozeman,MT,$100k-$150k,Plumber,"Jan 3, 2022",2964.73,15,PHONE,gyoung118@yahoo.com,(256) 961-3594,,,,,,,,,,,,
+RS-74291,Anthony,Martinez,51,Prefer not to say,Salt Lake City,UT,$75k-$100k,Veterinarian,01/02/2020,2088.11,3,phone call,amartinez@aol.com,(300) 549-9831,,,,,,,,,,,,
+RS-29969,Anthony,Martinez,51,Prefer not to say,Salt Lake City,UT,$75k-$100k,Veterinarian,01/02/2020,2088.11,3,phone call,amartinez@aol.com,(300) 549-9831,,,,,,,,,,,,
+RS-79252,Frank,Hill,38,Female,Anchorage,Alaska,$75k-$100k,Civil Engineer,03/21/2016,463.0,3,Email,fhill@icloud.com,(987) 704-4485,,,,,,,,,,,,
+RS-65057,William,Brown,22,Non-binary,Boulder,CO,$150k+,Firefighter,"Aug 22, 2022",1330.49,3,phone call,wbrown@yahoo.com,,Cycling,3+ times per week,Rent,No,under 50,No,NO,YouTube,Trade Show,6,5,Both
+RS-30070,Anthony,Rivera,-1,Non-binary,Eugene,OR,$50k-$75k,Electrician,5/27/2018,523.1,16,Email,,(313) 955-9095,SUP,3-4x/month,Rents,no,$300-$500,yes,Y,None|Instagram,Friend/Family Referral,1,3,ONLINE
+RS-41808,rachel,NELSON,47,Male,OGDEN,Utah,$50k-$75k,Data Analyst,3/11/2023,1039.74,14,text,rachel75@yahoo.com,,SUP|Fishing|Hiking|Snowboarding,3-4x/month,Owns,Yes,$150-$300,Yes,Y,None|Pinterest,Google Search,5,4,online
+RS-44743,Carol,Gonzalez,34,Male,ANCHORAGE,AK,$30k-$50k,Consultant,"May 20, 2022",2041.55,5,,cgonzalez@aol.com,(227) 314-8882,,,,,,,,,,,,
+RS-10352,NANCY,NGUYEN,47,Prefer not to say,Portland,or,$100k-$150k,Doctor,,447.41,2,Text,,,,,,,,,,,,,,
+RS-18802,Jeffrey,Lewis,26,Non-binary,OGDEN,Utah,<$30k,Pharmacist,"Jul 23, 2019",2905.94,17,TEXT,jlewis569@gmail.com,(313) 696-8716,,,,,,,,,,,,
+RS-69796,Carol,Harris,39,Prefer not to say,Boise,ID,$50k-$75k,Surveyor,"Sep 17, 2019",534.26,14,e-mail,charris@hotmail.com,(395) 833-6536,Hiking|Backpacking|SUP|Mountain Biking,3-4x/month,Own,YES,$150-$300,yes,Yes,Instagram|Twitter/X|YouTube,Trade Show,3,2,Both
+RS-62947,Pamela,Smith,22,Non-binary,Portland,OR,$100k-$150k,HR Manager,"Apr 25, 2022",1409.13,4,EMAIL,smithp@aol.com,(523) 522-6785,,,,,,,,,,,,
+RS-55787,Amy,Sanchez,68,Female,seattle,WA,,Electrician,07/06/2017,324.66,16,EMAIL,sancheza@icloud.com,(360) 154-2659,,,,,,,,,,,,
+RS-37600,LISA,Clark,,Male,OGDEN,Utah,$75k-$100k,Financial Advisor,11/5/2022,153.71,16,TEXT,lclark148@hotmail.com,(914) 652-3900,,,,,,,,,,,,
+RS-48739,Jacob,Martin,60,Prefer not to say,Reno,NV,$100k-$150k,Teacher,08/12/2018,625.69,9,Phone,jacob86@aol.com,(724) 503-4185,,,,,,,,,,,,
+RS-20793,Jennifer,Green,49,Non-binary,Portland,me,$50k-$75k,Nutritionist,12/10/2018,530.28,17,phone call,jennifer31@hotmail.com,(516) 782-6351,Fishing|Surfing|Hunting|Hiking,3-4x/month,Owns,No,$150-$300,Yes,NO,TikTok,Friend/Family Referral,6,5,online
+RS-74087,Nicole,Hall,54,Female,Boise,ID,<$30k,Nurse,2019-05-08,2572.8,3,Text,nhall33@gmail.com,(858) 691-3743,,,,,,,,,,,,
+RS-69840,Benjamin,Carter,58,Non-binary,Chattanooga,TN,$50k-$75k,Software Engineer,,1064.46,100,PHONE,benjamin77@outlook.com,(207) 661-7121,Skiing|Rock Climbing|Fishing|Backpacking,3+ times per week,RENTS,yes,$500+,Yes,YES,YouTube|Twitter/X|Reddit,In-Store Display,9,4,online
+RS-96223,Frank,Jackson,29,Prefer not to say,SALT LAKE CITY,UT,$75k-$100k,Photographer,12/11/2019,2275.59,15,PHONE,frank28@outlook.com,(316) 453-8043,Trail Running|Backpacking|Kayaking|Hiking,Daily,RENTS,Yes,<$50,No,Y,TikTok,In-Store Display,2,,IN-STORE
+RS-14120,Gregory,Lewis,47,Female,TACOMA,WA,$30k-$50k,HR Manager,2023-10-25,2456.02,13,email,lewisg@hotmail.com,(396) 988-9829,,,,,,,,,,,,
+RS-74418,John,Thompson,38,Male,Portland,OR,<$30k,Project Manager,10/11/2015,1200.32,11,Phone,,(811) 700-4874,,,,,,,,,,,,
+RS-72983,Robert,Wright,29,Non-binary,Albuquerque,N.M.,$30k-$50k,Real Estate Agent,2022-12-10,,6,phone,rwright@icloud.com,(377) 824-9902,,,,,,,,,,,,
+RS-14015,Gregory,davis,35,Prefer not to say,Asheville,NC,$50k-$75k,Financial Advisor,"Nov 18, 2017",705.48,19,text,gregory_davis@gmail.com,(535) 291-9733,,,,,,,,,,,,
+RS-46040,David,Hernandez,24,Male,Ogden,ut,$50k-$75k,Police Officer,01/14/2022,670.37,15,Text,hernandezd@aol.com,(821) 975-1515,Cycling|Snowboarding|Mountain Biking,1-2x/month,Both,NO,$500+,Yes,no,Instagram|Twitter/X|None,Email Campaign,3,3,In-Store
+RS-82298,Dorothy,Scott,27,Female,Phoenix,AZ,$100k-$150k,Nutritionist,3/19/2017,1108.45,3,email,,(569) 497-8695,,,,,,,,,,,,
+RS-98214,Joseph,Johnson,24,Male,Anchorage,AK,,Geologist,"Apr 15, 2021",,11,email,joseph_johnson@gmail.com,(299) 467-6635,,,,,,,,,,,,
+RS-56316,Elizabeth,Jones,46,Female,Portland,OR,$75k-$100k,Contractor,"Oct 11, 2023",1377.77,2,phone call,,(916) 940-1130,Kayaking,3+ times per week,Both,N,$50-$150,No,YES,Facebook|TikTok,Trade Show,9,4,In-Store
+RS-38545,Joseph,Taylor,35,Prefer not to say,Billings,MT,$30k-$50k,Graphic Designer,"Feb 22, 2022",1894.14,18,Text,joseph_taylor@icloud.com,(974) 455-8187,,,,,,,,,,,,
+RS-45128,Nancy,Robinson,28,Female,Boulder,CO,$100k-$150k,Geologist,"Mar 19, 2017",2600.82,2,text,nrobinson248@hotmail.com,(674) 784-3525,,,,,,,,,,,,
+RS-86460,Amanda,Brown,52,,Ogden,UT,$50k-$75k,,"Apr 12, 2023",2304.99,20,Phone,amanda_brown@icloud.com,(973) 247-4261,,,,,,,,,,,,
+RS-64266,Amy,Sanchez,68,Female,seattle,WA,,Electrician,07/06/2017,324.66,16,EMAIL,sancheza@icloud.com,(360) 154-2659,,,,,,,,,,,,
+RS-50760,Frank,Davis,32,Female,Chattanooga,tn,$100k-$150k,Police Officer,"Sep 15, 2016",232.19,19,Text,fdavis129@hotmail.com,(934) 697-9008,SUP|Hiking|Snowboarding|Fishing,3+ times per week,Own,Yes,300-500,Y,Y,Instagram|YouTube|TikTok,Social Media,10,4,ONLINE
+RS-52739,Emma,Johnson,39,Prefer not to say,IDAHO FALLS,Idaho,$75k-$100k,Pilot,02/06/2019,2488.1,7,EMAIL,johnsone@outlook.com,(271) 565-1941,,,,,,,,,,,,
+RS-67586,Patrick,Ramirez,47,Male,Chattanooga,TN,<$30k,Retail Manager,2017-05-02,1633.63,16,text,pramirez@yahoo.com,(813) 141-6623,,,,,,,,,,,,
+RS-30568,Nicholas,Young,49,Non-binary,Tucson,Arizona,<$30k,Pilot,08/11/2022,102.42,18,,nyoung662@icloud.com,(720) 675-4389,,,,,,,,,,,,
+RS-90131,Patricia,Hall,48,Male,JACKSON,WY,<$30k,Personal Trainer,"Nov 28, 2018",1873.81,16,phone call,hallp@icloud.com,(827) 155-1190,,,,,,,,,,,,
+RS-21181,Shirley,Campbell,28,Prefer not to say,Fort Collins,CO,$30k-$50k,Doctor,"Jul 10, 2015",901.9,7,,scampbell@hotmail.com,(710) 656-1094,,,,,,,,,,,,
+RS-38194,Edward,Brown,44,Prefer not to say,Anchorage,AK,<$30k,Project Manager,09/07/2017,1022.57,0,Phone,edward_brown@outlook.com,(766) 164-1806,,,,,,,,,,,,
+RS-81576,Heather,Lopez,30,Male,BOISE,ID,$100k-$150k,Plumber,"Jul 14, 2022",1593.35,6,text,hlopez565@yahoo.com,(491) 965-8167,,,,,,,,,,,,
+RS-63248,Emma,Green,51,Female,Burlington,VT,$75k-$100k,Teacher,12/01/2017,0,7,email,egreen@outlook.com,(534) 929-3940,,,,,,,,,,,,
+RS-72613,Barbara,Thomas,38,Non-binary,Eugene,Oregon,$100k-$150k,,6/24/2022,1264.54,3,Text,bthomas403@aol.com,(639) 422-3290,Rock Climbing,Rarely,Owns,no,$300-$500,no,no,Reddit|TikTok|Pinterest,Social Media,4,1,online
+RS-64201,Gregory,Anderson,38,Non-binary,Cheyenne,wy,$50k-$75k,Pharmacist,12/09/2019,407.87,8,email,gregory_anderson@outlook.com,(491) 331-5417,,,,,,,,,,,,
+RS-18973,Nancy,Martinez,35,Prefer not to say,TACOMA,Washington,$30k-$50k,Pharmacist,12/1/2022,,16,PHONE,nmartinez@outlook.com,(968) 249-1918,,,,,,,,,,,,
+RS-62857,Steven,Torres,27,Female,Tucson,AZ,$75k-$100k,Flight Attendant,04/06/2022,319.45,6,Email,storres@yahoo.com,(650) 535-8728,,,,,,,,,,,,
+RS-11160,Joshua,Martinez,31,Prefer not to say,CHATTANOOGA,TN,$150k+,Marketing Manager,09/05/2017,264.14,14,text,joshua_martinez@hotmail.com,,,,,,,,,,,,,
+RS-72504,Janet,Johnson,24,Male,Asheville,NC,<$30k,Pharmacist,11/13/2022,1919.85,8,phone,jjohnson@aol.com,(200) 184-3215,SUP|Hunting|Mountain Biking,1-2 times a month,Owns,Yes,$150-$300,N,YES,Instagram|None|TikTok,Friend/Family Referral,3,3,in-store
+RS-92253,Frank,Garcia,,Prefer not to say,Las Vegas,Nevada,<$30k,Chef,4/12/2022,1089.13,7,Text,frank90@yahoo.com,(734) 717-3855,Hunting|Snowboarding|Surfing,Daily,OWNS,yes,$150-$300,No,YES,Facebook|Twitter/X,Online Ad,8,1,Online only
+RS-24169,Kathleen,Jones,35,Non-binary,Tacoma,Washington,$100k-$150k,Mechanic,"Nov 16, 2015",1195.41,,e-mail,kathleen_jones@aol.com,(902) 647-8794,,,,,,,,,,,,
+RS-49936,Anthony,Carter,59,Female,Seattle,wa,<$30k,Librarian,02/10/2023,1762.76,8,e-mail,,(697) 561-6379,,,,,,,,,,,,
+RS-73156,Emily,Carter,22,Female,Cheyenne,WY,<$30k,Plumber,"Oct 13, 2019",123.82,20,Phone,emily39@aol.com,(319) 243-1742,,,,,,,,,,,,
+RS-79963,Andrew,Campbell,33,Female,Fairbanks,AK,<$30k,Accountant,9/2/2022,1680.76,2,Phone,acampbell@hotmail.com,(236) 917-4695,,,,,,,,,,,,
+RS-47387,Nancy,Gonzalez,27,Male,Fort Collins,CO,$30k-$50k,Nurse,2020-03-12,939.6,16,PHONE,gonzalezn@gmail.com,(759) 619-6427,,,,,,,,,,,,
+RS-10358,Susan,Young,27,Non-binary,Portland,me,$75k-$100k,Nurse,2023-05-18,1251.64,16,EMAIL,syoung246@icloud.com,(805) 328-8360,,,,,,,,,,,,
+RS-51288,Ronald,Rivera,32,Female,Eugene,OR,$75k-$100k,Plumber,2018-08-10,514.97,20,text,riverar@outlook.com,(250) 793-5896,,,,,,,,,,,,
+RS-24475,Janet,Brown,25,Male,FAIRBANKS,ak,$30k-$50k,Flight Attendant,"Oct 8, 2023",2454.48,13,email,jbrown207@icloud.com,(569) 565-2605,Hunting|Skiing|Camping|Surfing,1-2x/month,RENTS,Sometimes,300-500,No,NO,Pinterest,Email Campaign,9,4,in-store
+RS-49529,Debra,Flores,20,Prefer not to say,Boise,id,<$30k,Social Worker,2022-12-05,1968.85,16,e-mail,floresd@gmail.com,(661) 349-8613,,,,,,,,,,,,
+RS-34488,Steven,Lopez,27,Prefer not to say,Concord,NH,$30k-$50k,Project Manager,2022-12-15,1046.51,17,email,slopez980@yahoo.com,(875) 902-6954,,,,,,,,,,,,
+RS-78997,Dennis,Phillips,57,Prefer not to say,Salt Lake City,UT,$50k-$75k,Software Engineer,"Aug 19, 2023",2404.76,20,e-mail,dennis22@icloud.com,(872) 398-1447,,,,,,,,,,,,
+RS-12490,Steven,Anderson,51,Non-binary,Billings,MT,<$30k,Optometrist,11/17/2015,54.61,6,Phone,steven_anderson@gmail.com,(757) 619-9316,,,,,,,,,,,,
+RS-67691,Samantha,Green,,Male,Fairbanks,AK,$50k-$75k,Flight Attendant,04/22/2015,899.14,10,Email,sgreen13@gmail.com,(329) 132-4514,,,,,,,,,,,,
+RS-52348,Melissa,Nguyen,25,Female,Denver,CO,$150k+,Plumber,"Feb 27, 2021",831.08,6,Phone,melissa_nguyen@outlook.com,(257) 563-7760,Rock Climbing|Camping|Backpacking|Hiking,1-2x/month,Rent,No,300-500,no,N,TikTok,Friend/Family Referral,9,5,in-store
+RS-31023,Elizabeth,Nguyen,49,Female,Jackson,Wyo.,$50k-$75k,Financial Advisor,2021-10-28,2549.48,5,EMAIL,elizabeth70@gmail.com,(410) 789-9053,,,,,,,,,,,,
+RS-66207,Donna,Nguyen,66,Female,Flagstaff,AZ,<$30k,Retail Manager,"Apr 10, 2015",2077.79,19,email,dnguyen673@yahoo.com,(472) 946-3330,SUP|Kayaking,Rarely,Own,No,300-500,Y,Y,Reddit|TikTok|Twitter/X,Email Campaign,2,4,ONLINE
+RS-91539,Larry,Hill,27,Male,Albuquerque,NM,$75k-$100k,HR Manager,07/08/2019,2960.16,9,Text,lhill241@aol.com,(366) 633-4857,Fishing,3-4x/month,Rent,YES,<$50,yes,yes,YouTube|Facebook|Twitter/X,Email Campaign,10,2,Both
+RS-27038,Anna,Moore,26,,BILLINGS,MT,$30k-$50k,Personal Trainer,"Aug 15, 2016",1536.32,17,phone call,amoore@hotmail.com,(636) 802-2768,,,,,,,,,,,,
+RS-85513,Richard,Lewis,52,Female,Denver,CO,<$30k,Police Officer,07/12/2020,798.22,12,phone call,lewisr@hotmail.com,(770) 594-3928,,,,,,,,,,,,
+RS-67571,Kathleen,Moore,61,Female,Tacoma,WA,$50k-$75k,Teacher,,2551.8,7,text,kmoore@hotmail.com,(588) 420-5179,Fishing|Kayaking|Camping|Snowboarding,Rarely,Both,Yes,$150-$300,Y,yes,YouTube,In-Store Display,2,1,Online
+RS-31605,Steven,Anderson,62,Prefer not to say,Idaho Falls,Idaho,,Contractor,08/15/2022,2155.07,9,Text,sanderson191@gmail.com,(747) 859-7403,Backpacking,Rarely,Both,YES,under 50,No,no,Instagram|Pinterest|Twitter/X,Outdoor Magazine,1,5,In-Store
+RS-65369,Gregory,Young,51,Non-binary,Tacoma,WA,$100k-$150k,Accountant,8/21/2019,1473.2,7,Email,gyoung704@gmail.com,(351) 485-7997,,,,,,,,,,,,
+RS-57696,Melissa,Martin,21,Non-binary,Salt Lake City,U.T.,$100k-$150k,Photographer,2017-06-10,299.92,11,phone call,mmartin671@gmail.com,(720) 470-1298,,,,,,,,,,,,
+RS-60666,Katherine,Lewis,,Prefer not to say,Salt Lake City,Utah,,Librarian,"Sep 7, 2015",2405.61,10,TEXT,katherine56@hotmail.com,(237) 782-9978,,,,,,,,,,,,
+RS-52778,Patricia,Adams,40,Prefer not to say,Anchorage,ak,$30k-$50k,Graphic Designer,12/26/2021,364.33,,text,padams@yahoo.com,(641) 559-9395,,,,,,,,,,,,
+RS-60915,Steven,Lopez,27,Prefer not to say,Concord,NH,$30k-$50k,Project Manager,2022-12-15,1046.51,17,email,slopez980@yahoo.com,(875) 902-6954,,,,,,,,,,,,
+RS-87489,benjamin,Adams,27,Female,Provo,UT,$30k-$50k,Sales Representative,07/21/2023,877.64,11,Text,,,,,,,,,,,,,,
+RS-44701,Margaret,Smith,37,Male,Asheville,NC,,Civil Engineer,6/24/2015,,17,Text,margaret20@gmail.com,(456) 331-8711,,,,,,,,,,,,
+RS-22472,Dorothy,Phillips,31,Male,Missoula,mt,<$30k,Librarian,"May 18, 2023",2795.82,3,phone,phillipsd@gmail.com,(802) 104-2750,,,,,,,,,,,,
+RS-75211,Melissa,Wright,45,Female,CONCORD,NH,$50k-$75k,Sales Representative,06/15/2022,1863.81,2,phone call,mwright705@aol.com,(231) 246-8179,Rock Climbing,1-2 times a month,OWNS,N,<$50,no,yes,None|TikTok|Reddit,Trade Show,10,3,IN-STORE
+RS-38698,Ashley,Walker,50,Prefer not to say,Jackson,WY,$150k+,Mechanic,2015-07-13,140.26,8,PHONE,ashley28@icloud.com,(440) 393-4985,,,,,,,,,,,,
+RS-76127,SUSAN,Allen,70,Male,Tacoma,WA,$150k+,Physical Therapist,2016-07-12,99999,7,e-mail,susan79@aol.com,(895) 603-1516,,,,,,,,,,,,
+RS-44510,Jeffrey,Walker,27,Male,Provo,UT,$30k-$50k,Architect,2021-09-22,931.61,2,TEXT,jwalker133@yahoo.com,(659) 277-3738,,,,,,,,,,,,
+RS-30707,Jeffrey,Walker,59,Non-binary,Provo,UT,$30k-$50k,,07/21/2018,,8,PHONE,,(323) 980-7919,,,,,,,,,,,,
+RS-22793,Maria,Martin,22,Female,PORTLAND,OR,$50k-$75k,Plumber,2020-02-17,1862.38,3,EMAIL,mmartin752@outlook.com,,,,,,,,,,,,,
+RS-96105,Sarah,Garcia,58,Prefer not to say,Billings,MT,$75k-$100k,Police Officer,11/26/2023,2130.15,5,e-mail,sarah_garcia@gmail.com,(936) 221-4016,,,,,,,,,,,,
+RS-73714,Angela,Hill,49,Male,Portland,me,$75k-$100k,Plumber,2020-08-23,616.99,8,phone call,ahill682@aol.com,(500) 840-7395,,,,,,,,,,,,
+RS-44668,Donna,Ramirez,-1,,Boulder,co,$50k-$75k,Pilot,9/13/2018,202.16,13,Text,donna_ramirez@icloud.com,(436) 201-3069,,,,,,,,,,,,
+RS-90006,Charles,Rivera,57,Prefer not to say,Las Vegas,NV,$50k-$75k,Professor,"Sep 18, 2017",971.14,1,,crivera257@outlook.com,(511) 843-7926,,,,,,,,,,,,
+RS-10221,Eric,Scott,30,Male,Reno,NV,$100k-$150k,Project Manager,9/5/2019,2048.09,10,Email,scotte@hotmail.com,(821) 770-6279,,,,,,,,,,,,
+RS-26391,James,King,35,Female,Fort Collins,CO,$100k-$150k,Pilot,10/27/2015,2996.2,8,e-mail,kingj@yahoo.com,(310) 338-4495,,,,,,,,,,,,
+RS-29097,Jessica,Williams,999,Male,Boulder,Col.,<$30k,Surveyor,2023-11-16,2462.6,3,email,jessica_williams@outlook.com,(856) 187-9361,,,,,,,,,,,,
+RS-41970,Eric,Gonzalez,47,Prefer not to say,Spokane,Wash.,$75k-$100k,Architect,,2126.09,18,text,egonzalez@outlook.com,(701) 640-6134,,,,,,,,,,,,
+RS-76683,Mark,Davis,49,,Boise,ID,<$30k,Dentist,10/3/2021,1377.42,18,Text,davism@hotmail.com,(256) 951-3034,,,,,,,,,,,,
+RS-86037,Gregory,Campbell,65,,Fairbanks,AK,$150k+,Sales Representative,4/19/2015,341.47,15,phone,gregory_campbell@outlook.com,(454) 383-8307,,,,,,,,,,,,
+RS-49309,Sharon,Baker,57,Female,Boulder,CO,$150k+,Consultant,2023-10-28,226.65,8,phone call,sharon41@hotmail.com,(265) 749-4335,,,,,,,,,,,,
+RS-56205,Susan,Hill,29,Male,Knoxville,Tennessee,$50k-$75k,Librarian,"Jan 12, 2017",569.64,9,phone call,hills@yahoo.com,(201) 808-9840,,,,,,,,,,,,
+RS-47618,Brian,Miller,34,Male,Denver,CO,$30k-$50k,Dentist,"Oct 14, 2016",426.23,16,EMAIL,brian_miller@yahoo.com,(869) 351-7278,,,,,,,,,,,,
+RS-77668,Ronald,Young,23,Non-binary,Fairbanks,AK,$30k-$50k,Project Manager,2017-11-26,2762.59,8,PHONE,ronald90@outlook.com,(595) 987-9721,Hunting|Backpacking|Fishing,1-2 times a month,rents,NO,$150-$300,Sometimes,yes,YouTube,Email Campaign,5,3,Online
+RS-26110,George,Roberts,35,Non-binary,Eugene,OR,$150k+,Software Engineer,5/14/2019,1733.32,8,TEXT,robertsg@yahoo.com,(592) 308-9875,,,,,,,,,,,,
+RS-67135,Sharon,Baker,59,Non-binary,Albuquerque,NM,$30k-$50k,Software Engineer,2023-06-04,1794.87,17,text,bakers@hotmail.com,(407) 401-3307,,,,,,,,,,,,
+RS-71636,Jason,Lopez,63,Male,Tucson,AZ,$50k-$75k,Doctor,04/26/2017,853.4,2,Text,,(335) 347-7016,,,,,,,,,,,,
+RS-73347,Daniel,Thompson,55,Female,Reno,NV,$100k-$150k,Data Analyst,"Nov 16, 2015",1698.12,,PHONE,daniel_thompson@outlook.com,(398) 413-2965,,,,,,,,,,,,
+RS-62171,Joshua,Phillips,57,Female,Asheville,NC,$100k-$150k,Professor,06/15/2021,2152.27,9,phone call,phillipsj@aol.com,(293) 216-8362,,,,,,,,,,,,
+RS-35712,Jonathan,Flores,53,Prefer not to say,Idaho Falls,ID,$75k-$100k,Construction Manager,"Jun 7, 2020",734.5,18,Email,floresj@gmail.com,,Kayaking|Hiking,1-2 times a month,OWNS,yes,$500+,No,YES,Facebook|Pinterest,Friend/Family Referral,9,3,online
+RS-44478,Katherine,Johnson,31,Non-binary,Colorado Springs,CO,<$30k,Marketing Manager,9/16/2016,155.02,14,email,,,,,,,,,,,,,,
+RS-59327,jeffrey,Walker,28,Female,Albuquerque,NM,$150k+,Professor,9/28/2022,1509.34,12,phone,jwalker@icloud.com,,,,,,,,,,,,,
+RS-78084,Emily,Baker,38,Non-binary,Concord,NH,,,3/20/2018,2200.86,9,Text,ebaker@outlook.com,(911) 246-9780,Backpacking|Surfing|Hunting,Daily,OWNS,NO,$150-$300,yes,yes,Reddit|YouTube,Social Media,4,1,Online only
+RS-58994,Jeffrey,Smith,,Prefer not to say,Chattanooga,TN,$100k-$150k,Retail Manager,2016-03-17,2384.82,17,EMAIL,jeffrey82@aol.com,,Rock Climbing|Surfing|Camping,Rarely,Rents,N,$50-$150,Sometimes,YES,None,Email Campaign,3,5,Online only
+RS-86763,Jessica,Rivera,28,,Reno,NV,$75k-$100k,Software Engineer,"Jul 2, 2017",2064.95,15,Phone,riveraj@yahoo.com,(819) 676-1387,,,,,,,,,,,,
+RS-22863,Dorothy,Lee,38,Female,Tacoma,Wash.,$100k-$150k,Consultant,7/4/2021,1536.25,12,EMAIL,dorothy72@gmail.com,,,,,,,,,,,,,
+RS-85992,Frank,Torres,22,Female,BOZEMAN,Mont.,$75k-$100k,Software Engineer,"Nov 3, 2015",647.96,7,PHONE,ftorres@icloud.com,(645) 672-9004,,,,,,,,,,,,
+RS-12758,Donna,Lopez,30,Male,Anchorage,ak,$150k+,Software Engineer,07/01/2021,1951.22,3,phone call,dlopez@gmail.com,(546) 973-2392,SUP|Mountain Biking|Snowboarding|Fishing,Rarely,OWNS,YES,$150-$300,No,Yes,Twitter/X|Pinterest|None,Friend/Family Referral,,,Online only
+RS-11803,Edward,Miller,59,Non-binary,Santa Fe,NM,$150k+,Surveyor,6/7/2021,1340.48,6,Email,emiller218@outlook.com,(494) 244-5643,,,,,,,,,,,,
+RS-51207,Katherine,Jackson,49,Male,Flagstaff,AZ,$150k+,Optometrist,2/15/2017,308.98,11,Phone,katherine_jackson@outlook.com,(928) 826-3852,,,,,,,,,,,,
+RS-68316,Joseph,Garcia,66,Female,Tacoma,WA,$150k+,Marketing Manager,2023-02-17,1718.35,17,TEXT,jgarcia93@icloud.com,(520) 682-8598,,,,,,,,,,,,
+RS-61435,Barbara,Scott,70,Male,Portland,OR,$30k-$50k,Nurse,9/22/2016,970.72,2,TEXT,barbara_scott@hotmail.com,(403) 469-1853,,,,,,,,,,,,
+RS-68755,Samantha,Wilson,41,Female,Chattanooga,TN,$75k-$100k,,5/20/2016,1172.33,18,Phone,samantha20@yahoo.com,(204) 113-9203,,,,,,,,,,,,
+RS-73691,Patricia,HERNANDEZ,31,Prefer not to say,DENVER,co,,Civil Engineer,7/16/2020,1409.76,11,e-mail,patricia30@hotmail.com,(547) 653-1750,,,,,,,,,,,,
+RS-12798,Frank,Sanchez,49,Non-binary,Concord,NH,$150k+,Retail Manager,3/3/2023,1647.74,17,Text,fsanchez804@outlook.com,(528) 838-2037,,,,,,,,,,,,
+RS-45954,Jennifer,Brown,66,Male,Phoenix,AZ,$75k-$100k,Marketing Manager,10/21/2016,2849.92,18,e-mail,jbrown804@yahoo.com,(661) 553-5871,,,,,,,,,,,,
+RS-15929,Barbara,Carter,58,Prefer not to say,Phoenix,AZ,$100k-$150k,Nutritionist,"Oct 19, 2015",995.29,9,Phone,barbara7@outlook.com,(737) 693-9326,,,,,,,,,,,,
+RS-84606,Lisa,Moore,62,Female,Reno,nv,<$30k,Flight Attendant,11/24/2023,89.21,,Phone,lisa80@yahoo.com,,Kayaking|Rock Climbing|Fishing|Skiing,Daily,Owns,yes,300-500,Y,N,Twitter/X,Online Ad,1,4,in-store
+RS-14424,Angela,Moore,59,Non-binary,Cheyenne,Wyoming,$30k-$50k,Social Worker,"Feb 1, 2020",680.63,8,EMAIL,moorea@icloud.com,(774) 384-2225,,,,,,,,,,,,
+RS-88660,Mary,Adams,26,Female,Salt Lake City,UT,$30k-$50k,Lawyer,2019-11-23,2573.75,13,email,madams215@hotmail.com,(236) 580-8844,Hiking|Skiing,Weekly,Rents,No,$300-$500,yes,N,TikTok|YouTube,Social Media,9,2,online
+RS-90125,Ronald,Hill,69,Male,Eugene,Oregon,$100k-$150k,Retail Manager,2021-07-06,1953.52,16,Text,ronald7@icloud.com,(209) 596-3236,Trail Running|Hunting|Backpacking|Snowboarding,3+ times per week,Own,N,300-500,yes,yes,Instagram,Outdoor Magazine,5,3,Both
+RS-52310,John,Davis,42,Prefer not to say,Santa Fe,nm,$50k-$75k,Pilot,1/24/2023,462.74,8,text,john_davis@gmail.com,(968) 171-9068,,,,,,,,,,,,
+RS-77185,Jason,Ramirez,34,Prefer not to say,Phoenix,Ariz.,$50k-$75k,Plumber,,766.74,19,Phone,jramirez@aol.com,,,,,,,,,,,,,
+RS-21836,Ronald,Mitchell,50,Non-binary,Knoxville,TN,$50k-$75k,Architect,7/7/2018,859.91,2,text,rmitchell@outlook.com,(686) 799-5036,,,,,,,,,,,,
+RS-23213,Mary,Brown,68,Male,BOZEMAN,MT,$50k-$75k,Dentist,"Jun 12, 2021",2825.92,2,text,mbrown@hotmail.com,(611) 842-3275,Hunting,Rarely,owns,Y,300-500,no,NO,Reddit|Pinterest|Facebook,Social Media,6,,ONLINE
+RS-97023,Scott,Young,32,Female,Las Vegas,NV,$50k-$75k,Graphic Designer,"Nov 4, 2021",2702.7,17,phone call,scott_young@hotmail.com,(482) 416-4122,Hunting|Mountain Biking|Camping,3+ times per week,Own,Y,$500+,Yes,Yes,TikTok|YouTube,Google Search,5,2,in-store
+RS-77809,Susan,Walker,59,Male,seattle,Wash.,$150k+,Accountant,12/21/2019,1378.3,11,text,walkers@hotmail.com,(592) 991-2310,Surfing|Mountain Biking|Kayaking,Daily,Rent,YES,50 to 150,Yes,NO,Instagram|None,Trade Show,1,3,in-store
+RS-79603,Matthew,Johnson,62,Non-binary,Eugene,or,$50k-$75k,Personal Trainer,7/22/2020,1109.79,13,,johnsonm@yahoo.com,(803) 616-3768,Skiing,Rarely,Rent,Yes,<$50,Y,No,Instagram|None|Pinterest,Friend/Family Referral,7,3,In store
+RS-48806,Angela,Baker,27,Prefer not to say,Concord,NH,$100k-$150k,Mechanic,"Jan 13, 2023",2519.66,13,TEXT,angela82@hotmail.com,(450) 951-6139,,,,,,,,,,,,
+RS-74769,Jessica,Thomas,68,Prefer not to say,Idaho Falls,ID,$150k+,Chef,"Jan 10, 2017",782.54,3,,jessica_thomas@aol.com,(417) 830-7283,,,,,,,,,,,,
+RS-79582,Lisa,Harris,66,Prefer not to say,Tacoma,Wash.,$75k-$100k,Contractor,"Jan 3, 2019",665.83,3,EMAIL,lisa98@yahoo.com,(448) 500-3612,,,,,,,,,,,,
+RS-55530,Dennis,Perez,59,Male,Provo,UT,$50k-$75k,Lawyer,5/23/2018,1402.44,1,Text,perezd@outlook.com,,,,,,,,,,,,,
+RS-27326,Carol,Garcia,34,Prefer not to say,Eugene,OR,$100k-$150k,Construction Manager,04/08/2023,2069.98,14,text,carol_garcia@icloud.com,(988) 412-3773,,,,,,,,,,,,
+RS-76597,Jacob,Williams,19,Male,Las Vegas,NV,<$30k,Photographer,2017-11-15,236.15,10,email,jacob_williams@outlook.com,(756) 584-5150,Kayaking|Cycling,1-2x/month,OWNS,no,$50-$150,N,N,Reddit|Pinterest,Trade Show,7,2,In store
+RS-61249,Emma,Wilson,35,Prefer not to say,Portland,OR,$30k-$50k,Mechanic,,352.71,15,Phone,ewilson167@hotmail.com,,,,,,,,,,,,,
+RS-44987,Andrew,Nelson,19,Non-binary,Asheville,NC,$30k-$50k,Contractor,,1674.58,16,Email,anelson@outlook.com,(265) 516-6954,,,,,,,,,,,,
+RS-33746,Laura,Roberts,28,Female,Portland,ME,$30k-$50k,Pilot,4/1/2018,1254.46,4,EMAIL,laura_roberts@gmail.com,(637) 245-8837,,,,,,,,,,,,
+RS-10156,Sarah,Ramirez,52,Prefer not to say,Knoxville,TN,<$30k,Firefighter,07/23/2020,118.01,8,Email,sarah73@outlook.com,(390) 575-8231,Fishing|Mountain Biking|Surfing,3+ times per week,owns,Y,$300-$500,Yes,N,None|Pinterest|Instagram,Google Search,2,2,In store
+RS-46605,Cynthia,Taylor,28,Male,Salt Lake City,UT,$75k-$100k,Data Analyst,"Sep 15, 2021",2521.0,14,PHONE,ctaylor@yahoo.com,,,,,,,,,,,,,
+RS-92203,Anna,Martin,69,Non-binary,Asheville,NC,$50k-$75k,Mechanic,"Dec 28, 2020",1143.09,15,PHONE,amartin@gmail.com,(593) 984-7850,Hunting|Cycling,1-2 times a month,owns,Sometimes,300-500,no,NO,Twitter/X|YouTube,Social Media,7,2,online
+RS-50696,Michael,Sanchez,38,Female,Tucson,AZ,$50k-$75k,Journalist,2020-11-17,552.9,5,email,michael83@outlook.com,(495) 312-6606,,,,,,,,,,,,
+RS-94299,Rebecca,Hall,44,Female,DENVER,CO,$30k-$50k,Construction Manager,2019-11-11,1709.59,11,Text,rhall617@aol.com,(519) 271-7475,Skiing|Backpacking,Weekly,Owns,Sometimes,300-500,Sometimes,N,TikTok|Instagram|None,Trade Show,1,2,Online
+RS-60967,Thomas,Davis,40,Female,Colorado Springs,CO,$75k-$100k,Pharmacist,4/20/2021,879.36,8,EMAIL,tdavis@aol.com,(825) 285-4091,,,,,,,,,,,,
+RS-58060,Rachel,Lewis,48,,Anchorage,AK,$150k+,Data Analyst,03/04/2018,2010.69,12,PHONE,,(389) 696-7770,Rock Climbing,Daily,Both,no,$150-$300,Y,YES,Pinterest,Social Media,1,3,Online only
+RS-39957,Paul,Harris,32,Female,Fort Collins,CO,$30k-$50k,Librarian,2016-09-09,1335.89,14,TEXT,,(835) 153-3882,,,,,,,,,,,,
+RS-15997,Jack,Perez,65,Male,Las Vegas,NV,$150k+,Architect,12/05/2018,938.98,15,PHONE,jack70@aol.com,(416) 274-2465,Fishing,1-2 times a month,RENTS,no,$300-$500,Y,Y,None|Pinterest|Instagram,Google Search,8,3,online
+RS-71662,Lisa,Campbell,63,Non-binary,Billings,MT,<$30k,Architect,2017-09-19,864.53,2,TEXT,lisa1@yahoo.com,,,,,,,,,,,,,
+RS-51724,Christopher,Anderson,29,Prefer not to say,FLAGSTAFF,Ariz.,$150k+,Geologist,2015-12-17,2470.05,15,EMAIL,christopher_anderson@hotmail.com,(679) 103-2826,,,,,,,,,,,,
+RS-18064,Gregory,Rivera,36,Female,Bozeman,MT,$100k-$150k,Plumber,03/26/2018,1391.49,4,e-mail,riverag@icloud.com,(895) 302-9070,Backpacking|Cycling|Rock Climbing|Hiking,3+ times per week,Owns,No,$50-$150,N,NO,Reddit|Instagram,Trade Show,7,5,Online
+RS-54212,anthony,Scott,51,Non-binary,SPOKANE,wa,$75k-$100k,Contractor,"Oct 22, 2015",895.8,19,text,anthony_scott@aol.com,(267) 929-1020,,,,,,,,,,,,
+RS-10841,LISA,Allen,64,Female,Boise,ID,$75k-$100k,Police Officer,12/6/2015,1255.94,6,Phone,lisa_allen@gmail.com,(799) 340-8829,,,,,,,,,,,,
+RS-28255,Jerry,Rivera,52,Female,Asheville,NC,$150k+,Retail Manager,2020-03-21,2165.27,11,e-mail,jrivera@hotmail.com,(602) 103-2090,Snowboarding|Hunting|Trail Running,Rarely,Rent,N,$300-$500,Sometimes,Yes,None|Twitter/X,Friend/Family Referral,7,2,Both
+RS-92764,Pamela,Clark,53,Non-binary,Bozeman,MT,<$30k,Professor,10/13/2016,1388.43,8,email,pclark753@yahoo.com,(587) 888-5267,,,,,,,,,,,,
+RS-96787,Ronald,hill,68,Prefer not to say,Santa Fe,nm,$50k-$75k,Pharmacist,2015-12-19,1724.07,20,e-mail,ronald43@yahoo.com,(443) 455-6234,Hunting,1-2 times a month,Own,Yes,$500+,No,no,Facebook|TikTok|Reddit,Friend/Family Referral,1,4,Both
+RS-95119,Deborah,Thomas,38,Male,Spokane,Wash.,,Civil Engineer,12/06/2021,1894.43,17,Email,deborah72@gmail.com,(430) 255-6599,,,,,,,,,,,,
+RS-22202,Stephanie,King,47,Non-binary,Denver,CO,$150k+,Journalist,2023-07-07,1002.45,5,PHONE,sking@gmail.com,(670) 116-3035,,,,,,,,,,,,
+RS-91313,Richard,Garcia,57,Male,Knoxville,TN,$100k-$150k,Nurse,2021-04-08,2576.21,15,phone call,richard48@gmail.com,(719) 390-5384,,,,,,,,,,,,
+RS-51342,Amy,Nguyen,50,Female,Eugene,Ore.,$75k-$100k,Chef,2016-12-17,,4,e-mail,nguyena@icloud.com,(475) 582-6621,,,,,,,,,,,,
+RS-56071,Patricia,Moore,52,Prefer not to say,Las Vegas,NV,$75k-$100k,Graphic Designer,2/3/2023,2770.82,8,PHONE,,(995) 820-8392,Camping|Hiking|Backpacking|Fishing,1-2x/month,Rent,YES,$50-$150,no,yes,Twitter/X|Pinterest,Podcast,9,1,in-store
+RS-65797,Carol,Hall,29,Prefer not to say,boulder,CO,$150k+,,03/03/2018,1505.68,15,email,chall479@icloud.com,,,,,,,,,,,,,
+RS-36262,Nicole,Clark,43,Female,Provo,UT,$75k-$100k,,2019-07-14,1899.17,,Phone,,(882) 578-3036,,,,,,,,,,,,
+RS-59253,Elizabeth,Smith,53,Female,Tacoma,Wash.,$50k-$75k,Civil Engineer,04/01/2022,1939.64,10,PHONE,smithe@gmail.com,(483) 604-2093,,,,,,,,,,,,
+RS-35715,Kevin,Thomas,59,Non-binary,Flagstaff,AZ,$75k-$100k,Journalist,08/06/2023,269.27,1,phone call,thomask@gmail.com,(666) 482-1990,,,,,,,,,,,,
+RS-52006,Heather,Clark,32,Female,Chattanooga,TN,$150k+,Retail Manager,02/14/2022,2128.2,2,EMAIL,heather_clark@outlook.com,(819) 434-6048,,,,,,,,,,,,
+RS-59009,Linda,King,43,Male,Spokane,Washington,$50k-$75k,Veterinarian,09/13/2022,1491.92,16,text,linda_king@aol.com,(292) 391-1449,,,,,,,,,,,,
+RS-17331,Sandra,Williams,54,Non-binary,Bozeman,MT,$50k-$75k,Librarian,"Oct 13, 2021",1553.1,4,Text,sandra9@icloud.com,(810) 579-9669,,,,,,,,,,,,
+RS-98754,Shirley,Hill,46,Female,Fairbanks,AK,$50k-$75k,Teacher,2019-07-25,390.28,8,TEXT,shill@icloud.com,(865) 694-3215,Trail Running|Rock Climbing,Weekly,owns,Yes,$50-$150,No,No,Facebook|TikTok,In-Store Display,3,1,IN-STORE
+RS-66088,Kevin,JOHNSON,56,Prefer not to say,Denver,CO,$100k-$150k,Pharmacist,9/6/2023,2421.48,12,phone,kevin_johnson@outlook.com,(561) 408-6467,,,,,,,,,,,,
+RS-86483,Kathleen,Lopez,42,Female,Fort Collins,CO,$75k-$100k,Police Officer,12/24/2022,1704.62,13,Text,klopez569@outlook.com,(990) 988-5331,,,,,,,,,,,,
+RS-35200,Ashley,Jackson,37,Female,Knoxville,tn,$50k-$75k,Professor,6/25/2021,2156.72,9,email,ajackson965@outlook.com,(478) 240-2789,,,,,,,,,,,,
+RS-62610,nicholas,Williams,56,Female,Santa Fe,NM,$50k-$75k,Nutritionist,"Aug 23, 2023",,14,phone call,,(871) 901-4728,,,,,,,,,,,,
+RS-88119,Jonathan,Roberts,38,Female,Ogden,UT,$75k-$100k,,,2430.63,9,phone,jonathan36@aol.com,(958) 982-8125,,,,,,,,,,,,
+RS-31613,Carol,Lopez,24,Male,Bend,OR,$150k+,Accountant,,2951.92,12,Phone,,(538) 202-1638,,,,,,,,,,,,
+RS-34901,Edward,Rivera,60,Female,Ogden,U.T.,$50k-$75k,Surveyor,2/1/2018,291.71,13,phone call,erivera199@hotmail.com,(590) 478-4056,,,,,,,,,,,,
+RS-33627,Margaret,Thompson,26,Non-binary,Ogden,UT,$150k+,Construction Manager,3/6/2021,2436.68,14,email,mthompson780@outlook.com,(659) 339-9749,Hunting|Rock Climbing|Cycling|Backpacking,once a week,Own,no,50 to 150,no,YES,YouTube,Google Search,1,3,Online only
+RS-64519,Melissa,Campbell,22,Male,Ogden,UT,$30k-$50k,Chef,07/24/2023,2039.75,4,Text,mcampbell683@outlook.com,(814) 553-6772,,,,,,,,,,,,
+RS-11274,Rachel,Moore,70,Female,Chattanooga,Tennessee,$150k+,Firefighter,4/24/2018,648.16,5,Phone,rachel1@icloud.com,(754) 143-8901,,,,,,,,,,,,
+RS-49227,George,Lewis,46,Prefer not to say,SEATTLE,Wash.,$150k+,Firefighter,"Jul 14, 2017",637.03,9,PHONE,lewisg@outlook.com,(999) 509-9222,,,,,,,,,,,,
+RS-76530,james,garcia,62,Male,Tacoma,wa,$100k-$150k,Project Manager,"Apr 14, 2019",1615.12,9,Text,,,,,,,,,,,,,,
+RS-64146,Michael,Hernandez,47,Female,Provo,UT,<$30k,Police Officer,10/25/2017,309.72,13,PHONE,mhernandez@icloud.com,(582) 114-6279,,,,,,,,,,,,
+RS-94707,Rebecca,Hall,30,Prefer not to say,Knoxville,tn,$50k-$75k,Financial Advisor,01/21/2019,2532.85,17,,rhall@hotmail.com,(625) 840-5931,,,,,,,,,,,,
+RS-22219,Sharon,Miller,21,Non-binary,Portland,OR,$150k+,,6/4/2019,2549.46,4,e-mail,sharon99@icloud.com,(828) 791-1430,,,,,,,,,,,,
+RS-35671,Anthony,Wilson,25,Female,Boise,ID,$30k-$50k,Lawyer,03/12/2015,2684.06,7,EMAIL,wilsona@aol.com,(472) 830-9523,,,,,,,,,,,,
+RS-36257,Jerry,Nguyen,54,Female,BOZEMAN,MT,<$30k,Professor,"Jun 28, 2016",645.02,8,email,jnguyen@yahoo.com,(650) 226-7145,Skiing|Hiking,once a week,Own,N,$300-$500,No,YES,Facebook|Instagram|None,Email Campaign,9,2,In-Store
+RS-16285,Jonathan,johnson,70,Prefer not to say,Burlington,VT,$30k-$50k,Chef,2/23/2020,1858.4,4,Email,jonathan_johnson@yahoo.com,(433) 480-7585,Mountain Biking|Rock Climbing,Rarely,RENTS,no,$300-$500,Y,Y,Instagram|YouTube,Podcast,4,4,in-store
+RS-23446,Carolyn,Wright,35,Female,Anchorage,AK,$75k-$100k,,"Jul 3, 2018",342.3,5,phone,carolyn18@aol.com,(680) 559-1086,,,,,,,,,,,,
+RS-79979,Andrew,Lewis,,Male,Tacoma,Washington,<$30k,Pharmacist,2023-01-12,2231.5,18,TEXT,andrew_lewis@aol.com,(590) 496-7825,,,,,,,,,,,,
+RS-86923,Catherine,White,35,Female,colorado springs,CO,$75k-$100k,Flight Attendant,03/13/2016,390.9,15,phone call,cwhite@icloud.com,(889) 191-2899,Camping|Fishing|SUP|Hiking,3-4x/month,Owns,YES,$150-$300,Y,N,None|Facebook|Reddit,Outdoor Magazine,,4,IN-STORE
+RS-10183,Katherine,White,63,Non-binary,Eugene,OR,<$30k,Real Estate Agent,03/09/2019,2345.65,13,phone,kwhite221@icloud.com,(425) 432-5403,Fishing|Snowboarding|Rock Climbing|Skiing,1-2 times a month,Both,YES,$50-$150,yes,yes,TikTok|Reddit,Google Search,8,2,in-store
+RS-49862,Lisa,Lopez,51,Male,Flagstaff,az,$100k-$150k,Flight Attendant,"Mar 22, 2017",2484.45,,phone call,lisa_lopez@aol.com,(785) 526-1496,,,,,,,,,,,,
+RS-14242,Donald,JACKSON,21,Non-binary,Denver,CO,$50k-$75k,Journalist,06/14/2016,119.87,2,Text,djackson@aol.com,(935) 337-4533,,,,,,,,,,,,
+RS-38803,Heather,Sanchez,54,Prefer not to say,Boise,Idaho,,Pilot,11/22/2017,2175.12,11,phone,,(293) 690-7159,,,,,,,,,,,,
+RS-50065,Frank,Hill,38,Female,Anchorage,Alaska,$75k-$100k,Civil Engineer,03/21/2016,463.0,3,Email,fhill@icloud.com,(987) 704-4485,,,,,,,,,,,,
+RS-60173,Stephanie,Sanchez,26,Prefer not to say,Boise,ID,$30k-$50k,,2017-12-16,454.8,20,e-mail,ssanchez575@hotmail.com,(593) 463-4698,Mountain Biking,once a week,owns,NO,$500+,yes,N,Instagram,Trade Show,2,1,Both
+RS-65927,Andrew,Perez,20,Female,Anchorage,AK,$50k-$75k,Pharmacist,"Apr 6, 2022",1838.2,9,email,aperez38@yahoo.com,(240) 652-9813,,,,,,,,,,,,
+RS-72181,Sarah,thompson,23,Prefer not to say,Tacoma,WA,<$30k,Accountant,11/12/2015,1610.91,,Email,sthompson393@icloud.com,(376) 293-9162,Cycling|Camping,Weekly,OWNS,Sometimes,300-500,Y,yes,TikTok|Reddit|YouTube,Social Media,9,1,in-store
+RS-55727,Jack,Hill,40,Male,Billings,mt,$50k-$75k,Lawyer,,2596.94,9,,jhill@outlook.com,(599) 430-2601,,,,,,,,,,,,
+RS-14895,John,Carter,53,Non-binary,Denver,CO,$100k-$150k,Flight Attendant,2022-07-26,636.06,14,TEXT,jcarter@hotmail.com,(301) 252-4543,,,,,,,,,,,,
+RS-82100,Michelle,Harris,38,Female,Idaho Falls,ID,$75k-$100k,Software Engineer,10/1/2019,935.99,1,phone,mharris594@icloud.com,(358) 196-1618,,,,,,,,,,,,
+RS-86756,Jennifer,Rivera,36,Non-binary,Provo,U.T.,,Real Estate Agent,9/10/2021,2897.83,1,TEXT,jrivera@gmail.com,(603) 650-9970,,,,,,,,,,,,
+RS-15573,Jacob,Harris,53,Female,Provo,Utah,$150k+,Dentist,3/24/2017,,7,email,,(882) 497-4153,,,,,,,,,,,,
+RS-90224,Samuel,JACKSON,44,Female,Fairbanks,AK,$150k+,Teacher,"Aug 20, 2022",2831.65,14,e-mail,sjackson@icloud.com,(963) 993-9062,,,,,,,,,,,,
+RS-76385,Brandon,Rivera,37,Male,Missoula,MT,$100k-$150k,Financial Advisor,"Mar 2, 2020",,19,,,(760) 160-2207,,,,,,,,,,,,
+RS-69233,Robert,Brown,23,Prefer not to say,Asheville,NC,,Pilot,10/16/2020,2442.35,3,Text,,(649) 636-9564,,,,,,,,,,,,
+RS-69942,Larry,Carter,54,Non-binary,CONCORD,NH,$100k-$150k,Sales Representative,05/28/2018,2459.35,8,e-mail,lcarter448@aol.com,(342) 903-4385,,,,,,,,,,,,
+RS-73253,Kimberly,Ramirez,26,Non-binary,Jackson,WY,<$30k,,2015-08-27,,11,e-mail,kramirez@outlook.com,,,,,,,,,,,,,
+RS-32789,Patricia,Clark,24,Female,Portland,Oregon,$150k+,Graphic Designer,02/01/2019,2437.43,11,PHONE,,(643) 941-7471,,,,,,,,,,,,
+RS-70177,Jennifer,King,28,Female,Idaho Falls,ID,$150k+,Librarian,11/18/2023,1504.34,9,phone,jennifer42@yahoo.com,(468) 234-3378,Surfing|Fishing,Weekly,Both,NO,<$50,Y,No,Twitter/X|TikTok|Facebook,Online Ad,10,2,Both
+RS-41536,Emma,Phillips,20,Female,CHATTANOOGA,TN,$100k-$150k,Data Analyst,02/02/2021,1536.5,20,Email,,,,,,,,,,,,,,
+RS-32591,Helen,Mitchell,45,Non-binary,FLAGSTAFF,AZ,$50k-$75k,Police Officer,11/18/2018,2562.42,3,Phone,mitchellh@gmail.com,(377) 900-2249,,,,,,,,,,,,
+RS-38683,Daniel,Rivera,25,Prefer not to say,Portland,ME,$100k-$150k,Nutritionist,2023-08-06,2527.6,16,phone,daniel_rivera@yahoo.com,(527) 653-2320,Skiing|Surfing,Weekly,owns,No,50 to 150,yes,N,None|YouTube|Instagram,Outdoor Magazine,7,5,Online
+RS-57850,Joseph,Lopez,57,Male,RENO,Nev.,$75k-$100k,,03/06/2023,0,4,PHONE,jlopez147@hotmail.com,(852) 100-6102,,,,,,,,,,,,
+RS-63543,Rebecca,King,67,Female,Asheville,NC,$75k-$100k,Contractor,1/23/2021,2607.3,12,TEXT,rebecca_king@gmail.com,(544) 705-2765,,,,,,,,,,,,
+RS-41119,Kathleen,Baker,44,Female,Boise,ID,$150k+,Retail Manager,06/19/2023,586.25,,phone,bakerk@hotmail.com,(923) 686-7893,,,,,,,,,,,,
+RS-23573,Deborah,Baker,42,Female,Tucson,az,$75k-$100k,Nutritionist,6/23/2023,907.21,6,phone call,dbaker@outlook.com,(796) 684-7839,,,,,,,,,,,,
+RS-32973,Samantha,Allen,69,Female,Fort Collins,CO,$150k+,,"Mar 3, 2015",1215.67,3,TEXT,sallen366@icloud.com,(483) 331-4187,,,,,,,,,,,,
+RS-28541,Brian,Walker,30,Non-binary,Albuquerque,New Mexico,$30k-$50k,Social Worker,,1672.0,16,PHONE,bwalker@hotmail.com,(981) 236-7551,,,,,,,,,,,,
+RS-18776,Jason,White,60,Non-binary,Flagstaff,AZ,$50k-$75k,Dentist,08/23/2018,99999,11,e-mail,jwhite993@hotmail.com,(876) 361-9828,,,,,,,,,,,,
+RS-42204,Jack,Martinez,66,Male,OGDEN,UT,,Accountant,6/12/2016,957.31,11,PHONE,martinezj@outlook.com,(775) 263-3490,Trail Running,3+ times per week,Both,NO,300-500,Y,Y,YouTube|Instagram|Pinterest,Google Search,2,2,IN-STORE
+RS-68138,Barbara,Garcia,57,Non-binary,Idaho Falls,ID,<$30k,Plumber,12/28/2023,1270.75,4,text,barbara_garcia@yahoo.com,(685) 168-2494,,,,,,,,,,,,
+RS-61595,Melissa,Roberts,19,Female,Fairbanks,ak,$150k+,Electrician,8/19/2018,2522.31,8,PHONE,melissa_roberts@aol.com,(354) 137-6266,,,,,,,,,,,,
+RS-28340,Ryan,Phillips,60,Non-binary,Boise,Idaho,$30k-$50k,Construction Manager,2/3/2019,2827.41,2,EMAIL,ryan36@yahoo.com,(800) 484-1971,Kayaking|Trail Running|Cycling,once a week,rents,No,300-500,No,No,Reddit|None,Google Search,10,2,Online only
+RS-16980,Benjamin,Jackson,49,Male,Chattanooga,TN,$150k+,Social Worker,"Mar 11, 2022",2869.47,19,email,jacksonb@hotmail.com,(605) 323-6013,,,,,,,,,,,,
+RS-99780,Joshua,Jackson,55,Female,Denver,co,$30k-$50k,Doctor,09/20/2018,393.87,100,text,joshua67@icloud.com,(550) 276-5991,Rock Climbing,Weekly,Both,yes,$500+,No,no,Facebook,Podcast,2,4,IN-STORE
+RS-92714,Eric,Nguyen,37,Male,Boise,ID,$100k-$150k,Plumber,05/23/2022,925.55,4,phone call,eric_nguyen@gmail.com,(806) 512-3257,,,,,,,,,,,,
+RS-89235,Steven,Young,64,Female,seattle,WA,$30k-$50k,Software Engineer,04/23/2018,230.27,12,email,syoung@yahoo.com,(636) 698-6009,,,,,,,,,,,,
+RS-35260,Thomas,Williams,70,Non-binary,Santa Fe,NM,$75k-$100k,Veterinarian,2015-12-20,1721.45,4,e-mail,thomas_williams@icloud.com,(620) 370-7275,,,,,,,,,,,,
+RS-75156,Jonathan,Scott,23,Prefer not to say,Portland,ME,$30k-$50k,Police Officer,2015-06-18,225.75,5,Text,jscott258@hotmail.com,(429) 157-3257,Skiing|Surfing,1-2x/month,RENTS,Y,<$50,Y,No,Facebook|YouTube|Twitter/X,Google Search,,1,online
+RS-38207,Raymond,Robinson,32,Prefer not to say,Bend,OR,$100k-$150k,,02/20/2016,2211.04,6,Email,raymond16@aol.com,(296) 513-7347,,,,,,,,,,,,
+RS-44576,John,Wright,28,Male,Reno,NV,$30k-$50k,Professor,"Oct 28, 2023",2903.65,15,Text,john62@gmail.com,(731) 456-4157,,,,,,,,,,,,
+RS-95749,Charles,Phillips,64,Non-binary,Fairbanks,AK,$75k-$100k,,04/07/2021,2983.49,100,Phone,charles22@outlook.com,(365) 169-5589,,,,,,,,,,,,
+RS-18119,Samuel,Williams,27,Male,Boulder,CO,<$30k,,11/6/2022,1416.19,14,,swilliams820@aol.com,(422) 881-7520,,,,,,,,,,,,
+RS-49893,Amy,davis,65,Prefer not to say,Bend,OR,$50k-$75k,,"Aug 8, 2022",1656.17,13,Phone,amy85@gmail.com,(854) 711-1349,Rock Climbing|Fishing|Mountain Biking,Daily,Rents,NO,$300-$500,no,no,Pinterest,Google Search,10,,Both
+RS-24179,CAROL,Campbell,21,Female,Reno,NV,$50k-$75k,Firefighter,2/23/2017,586.09,12,EMAIL,carol27@gmail.com,(205) 441-4259,,,,,,,,,,,,
+RS-85493,Jerry,Flores,59,Prefer not to say,Missoula,MT,$100k-$150k,Plumber,06/13/2017,610.08,12,Text,jflores237@icloud.com,(209) 651-8546,,,,,,,,,,,,
+RS-54572,David,Walker,53,,Idaho Falls,ID,$150k+,Graphic Designer,12/7/2022,,13,TEXT,david58@icloud.com,(216) 137-6558,Skiing,3-4x/month,owns,NO,300-500,Y,yes,YouTube|Instagram|Reddit,Google Search,1,5,Online
+RS-52561,Jennifer,Thompson,49,Male,Salt Lake City,Utah,$75k-$100k,Marketing Manager,8/23/2023,1144.09,,,jthompson@outlook.com,(660) 314-2531,,,,,,,,,,,,
+RS-91968,Brandon,Baker,22,Non-binary,Portland,ME,$100k-$150k,Graphic Designer,"Nov 11, 2018",2270.33,1,text,bbaker259@icloud.com,(898) 428-7248,,,,,,,,,,,,
+RS-74679,Donald,Anderson,23,Male,Billings,MT,$30k-$50k,,01/05/2020,930.4,14,Text,danderson718@aol.com,(786) 906-3906,,,,,,,,,,,,
+RS-54185,Emily,Nguyen,58,Prefer not to say,Burlington,Vt.,$50k-$75k,Software Engineer,"Aug 25, 2018",2182.5,,email,,(514) 263-7642,,,,,,,,,,,,
+RS-17917,Helen,Roberts,63,Male,Santa Fe,NM,$150k+,Pilot,2020-08-12,1492.81,8,Email,helen60@hotmail.com,(612) 574-8608,,,,,,,,,,,,
+RS-96805,Michelle,Thompson,62,Male,Chattanooga,TN,$150k+,Data Analyst,2016-09-01,2447.7,6,Email,michelle_thompson@yahoo.com,(426) 860-1324,,,,,,,,,,,,
+RS-53075,Nicholas,Young,52,Non-binary,Burlington,Vt.,<$30k,Nutritionist,2017-03-03,2592.99,6,Phone,youngn@outlook.com,(527) 884-9690,,,,,,,,,,,,
+RS-33203,Christopher,Hernandez,22,Non-binary,Boise,ID,$50k-$75k,Nurse,3/1/2023,1515.99,,Email,,(921) 450-7717,,,,,,,,,,,,
+RS-99712,Benjamin,Nelson,19,Prefer not to say,Knoxville,TN,$50k-$75k,Social Worker,2020-06-10,791.28,9,Email,bnelson797@gmail.com,(726) 225-1634,Trail Running|Rock Climbing|Camping|Snowboarding,3+ times per week,rents,No,300-500,No,YES,Instagram|Twitter/X|None,Email Campaign,6,2,Online
+RS-47347,Samuel,Roberts,69,Non-binary,Eugene,OR,$75k-$100k,Pilot,"Jul 26, 2016",1306.75,15,phone call,robertss@hotmail.com,(862) 637-2375,,,,,,,,,,,,
+RS-46129,Matthew,Mitchell,57,Male,Billings,MT,<$30k,Nurse,09/07/2018,740.78,19,phone call,mitchellm@outlook.com,(876) 633-4621,,,,,,,,,,,,
+RS-59425,Pamela,Lopez,26,Non-binary,fairbanks,AK,$50k-$75k,Consultant,"Aug 11, 2020",739.68,3,TEXT,plopez@outlook.com,(300) 221-2168,,,,,,,,,,,,
+RS-99201,Alexander,White,49,Male,Tucson,AZ,,Surveyor,2019-10-17,2229.5,6,Text,whitea@outlook.com,(433) 635-5494,Surfing,Rarely,Rent,YES,<$50,yes,Yes,Reddit|None,Podcast,9,3,Online only
+RS-45918,David,Phillips,39,Male,Seattle,WA,$100k-$150k,Consultant,11/21/2015,451.47,11,Phone,dphillips796@aol.com,(981) 233-7722,,,,,,,,,,,,
+RS-21846,Sharon,Miller,28,Male,Fort Collins,CO,$100k-$150k,Chef,2016-10-28,2742.85,9,phone call,,(494) 793-9955,Cycling|Mountain Biking|Kayaking|Backpacking,3+ times per week,rents,YES,$500+,No,YES,Facebook|None,Podcast,10,3,Online
+RS-82733,Kathleen,Moore,43,Male,Missoula,MT,$75k-$100k,Librarian,03/13/2015,1441.42,9,Phone,kathleen79@hotmail.com,(493) 828-1941,,,,,,,,,,,,
+RS-43667,Thomas,Perez,63,Prefer not to say,Tacoma,Washington,$150k+,Data Analyst,"Apr 8, 2016",1019.45,17,phone,perezt@outlook.com,(877) 248-1560,,,,,,,,,,,,
+RS-96275,Ronald,Jackson,65,Non-binary,Missoula,MT,$150k+,Contractor,2015-05-26,437.66,14,Text,ronald_jackson@icloud.com,(479) 950-3695,,,,,,,,,,,,
+RS-25713,Larry,Taylor,60,Non-binary,Flagstaff,az,$50k-$75k,Marketing Manager,,344.94,5,Phone,larry_taylor@outlook.com,(756) 820-5956,,,,,,,,,,,,
+RS-22995,Kevin,Thomas,59,Non-binary,Flagstaff,AZ,$75k-$100k,Journalist,08/06/2023,269.27,1,phone call,thomask@gmail.com,(666) 482-1990,,,,,,,,,,,,
+RS-62776,KATHLEEN,Hill,42,Non-binary,Colorado Springs,CO,$150k+,Consultant,"Aug 17, 2020",2827.95,10,Phone,kathleen12@outlook.com,(278) 847-4932,,,,,,,,,,,,
+RS-60165,Debra,lewis,20,Female,Phoenix,AZ,$75k-$100k,Firefighter,04/21/2023,1109.38,19,EMAIL,dlewis@outlook.com,(230) 930-5602,Trail Running|Cycling|Mountain Biking|Rock Climbing,Weekly,Rents,yes,$300-$500,Sometimes,Yes,Reddit,Online Ad,3,5,ONLINE
+RS-95717,Shirley,Smith,24,Female,Flagstaff,AZ,$30k-$50k,Police Officer,"Sep 16, 2019",322.28,1,Text,shirley_smith@yahoo.com,(764) 822-8007,,,,,,,,,,,,
+RS-84221,Brandon,Lewis,27,Non-binary,Concord,NH,$75k-$100k,Journalist,2016-04-01,2500.31,17,text,blewis@outlook.com,(995) 373-7531,,,,,,,,,,,,
+RS-61199,Frank,Lee,,Female,billings,Montana,,,4/4/2016,1561.88,7,TEXT,frank30@gmail.com,(565) 431-3844,Hiking|Skiing|Rock Climbing,once a week,owns,No,$500+,Y,N,Facebook,Outdoor Magazine,10,1,Online only
+RS-51864,Laura,Young,55,Non-binary,Tacoma,wa,$100k-$150k,Teacher,2/15/2018,196.86,5,text,lyoung24@gmail.com,(645) 891-8433,,,,,,,,,,,,
+RS-78938,Samantha,Phillips,32,Prefer not to say,Reno,NV,$30k-$50k,Lawyer,3/3/2023,1283.89,10,TEXT,sphillips@outlook.com,(996) 911-6529,Skiing|Hunting|Surfing|Hiking,3-4x/month,Rents,Sometimes,50 to 150,N,Yes,YouTube,Social Media,4,4,In-Store
+RS-23895,William,Perez,51,Female,Jackson,WY,$50k-$75k,Sales Representative,"Sep 10, 2017",2599.09,3,,perezw@yahoo.com,(904) 339-6120,,,,,,,,,,,,
+RS-85886,George,Williams,45,Male,Phoenix,AZ,$75k-$100k,Police Officer,10/24/2016,2804.98,20,phone,gwilliams959@outlook.com,(776) 608-9514,,,,,,,,,,,,
+RS-20101,Mary,Nguyen,48,Non-binary,Chattanooga,TN,$50k-$75k,Accountant,10/25/2015,,15,phone,mnguyen736@outlook.com,(360) 378-2506,,,,,,,,,,,,
+RS-80642,Deborah,Wilson,57,Prefer not to say,SANTA FE,NM,$30k-$50k,Firefighter,2018-02-02,2118.88,20,Email,wilsond@aol.com,(281) 579-1994,,,,,,,,,,,,
+RS-10873,Gary,Johnson,45,Female,Asheville,NC,$75k-$100k,Graphic Designer,12/22/2019,2245.62,6,phone,gjohnson805@aol.com,,,,,,,,,,,,,
+RS-88586,Pamela,Mitchell,28,Prefer not to say,PROVO,UT,$150k+,Nutritionist,8/12/2017,2768.09,1,PHONE,pmitchell257@hotmail.com,(672) 612-2821,,,,,,,,,,,,
+RS-10178,Benjamin,Jones,36,Non-binary,Concord,NH,$50k-$75k,Accountant,2020-01-04,1128.43,3,email,benjamin_jones@yahoo.com,(864) 589-4437,,,,,,,,,,,,
+RS-21248,Nancy,Mitchell,22,Prefer not to say,Bozeman,MT,,Dentist,06/19/2018,234.08,16,email,nancy33@outlook.com,(285) 245-2134,,,,,,,,,,,,
+RS-69589,Susan,Davis,26,,colorado springs,CO,$100k-$150k,Doctor,2016-02-22,2003.18,11,TEXT,sdavis@hotmail.com,(321) 492-8374,,,,,,,,,,,,
+RS-41946,ryan,Torres,22,Prefer not to say,Reno,NV,$50k-$75k,Flight Attendant,2022-03-15,1653.12,7,email,torresr@hotmail.com,,,,,,,,,,,,,
+RS-99803,Kenneth,Torres,46,Non-binary,Concord,NH,$75k-$100k,Marketing Manager,12/17/2017,1691.97,9,,torresk@gmail.com,(530) 711-1833,,,,,,,,,,,,
+RS-53418,Christopher,Taylor,,,Jackson,WY,$75k-$100k,Professor,2023-12-01,914.24,2,TEXT,christopher16@hotmail.com,(468) 876-2831,,,,,,,,,,,,
+RS-12660,William,Nguyen,34,Female,KNOXVILLE,TN,$50k-$75k,Librarian,1/16/2020,2176.6,9,phone call,wnguyen587@icloud.com,(589) 583-4215,,,,,,,,,,,,
+RS-93590,Brenda,Anderson,57,Male,Fairbanks,Alaska,$30k-$50k,Construction Manager,02/21/2018,1348.91,8,phone,banderson@aol.com,(561) 653-1732,,,,,,,,,,,,
+RS-40764,Samantha,White,37,Non-binary,Knoxville,TN,$50k-$75k,Plumber,"Jul 15, 2019",569.77,12,Text,samantha77@hotmail.com,(440) 129-5766,,,,,,,,,,,,
+RS-93810,Joseph,Johnson,24,Male,Anchorage,AK,,Geologist,"Apr 15, 2021",,11,email,joseph_johnson@gmail.com,(299) 467-6635,,,,,,,,,,,,
+RS-75374,Jason,Anderson,43,Female,Eugene,OR,$30k-$50k,Architect,08/26/2017,2986.91,11,phone,janderson417@gmail.com,(367) 161-4530,,,,,,,,,,,,
+RS-46064,Linda,Torres,58,Prefer not to say,Colorado Springs,CO,$50k-$75k,Project Manager,2021-03-25,2579.75,2,EMAIL,torresl@hotmail.com,(408) 438-2295,,,,,,,,,,,,
+RS-83668,Jack,Allen,64,Male,Knoxville,TN,<$30k,Financial Advisor,2022-01-27,934.78,8,TEXT,jallen459@aol.com,(831) 226-8083,Fishing,Weekly,owns,Sometimes,$300-$500,yes,NO,Twitter/X|Pinterest,Friend/Family Referral,8,3,IN-STORE
+RS-67325,David,Young,37,Prefer not to say,Phoenix,AZ,$100k-$150k,Electrician,06/09/2019,,6,Email,david_young@outlook.com,(665) 875-8371,,,,,,,,,,,,
+RS-29073,Janet,Johnson,44,Non-binary,Bend,OR,$100k-$150k,Retail Manager,10/8/2018,2080.02,20,phone call,janet61@hotmail.com,(397) 331-1528,,,,,,,,,,,,
+RS-16925,Ryan,Lopez,48,Female,Santa Fe,NM,$75k-$100k,Personal Trainer,12/15/2019,263.84,12,,,(775) 756-1966,Hiking|Mountain Biking|Fishing,once a week,Rents,No,under 50,No,YES,Instagram,Online Ad,8,5,Both
+RS-78464,Joseph,Smith,23,Male,Ogden,UT,$50k-$75k,Police Officer,"May 9, 2018",854.33,20,Phone,joseph_smith@icloud.com,(344) 821-5641,,,,,,,,,,,,
+RS-36500,Donna,Scott,20,Prefer not to say,MISSOULA,MT,$30k-$50k,Social Worker,4/11/2023,2593.03,14,e-mail,donna_scott@outlook.com,(715) 299-9964,,,,,,,,,,,,
+RS-29670,Timothy,Roberts,32,Prefer not to say,Concord,NH,$75k-$100k,Personal Trainer,"Apr 27, 2019",2407.07,11,Phone,timothy53@aol.com,(560) 673-9284,Backpacking|Snowboarding|Mountain Biking,Daily,Own,N,$300-$500,no,yes,YouTube|Reddit|None,Google Search,5,1,In-Store
+RS-24168,Timothy,Williams,47,Female,Missoula,Montana,$50k-$75k,Nutritionist,06/01/2023,1762.74,20,text,twilliams404@gmail.com,(394) 360-1727,,,,,,,,,,,,
+RS-33028,Thomas,Sanchez,60,Male,CHEYENNE,WY,,Mechanic,2021-12-21,2900.29,15,text,tsanchez@yahoo.com,(610) 636-2288,,,,,,,,,,,,
+RS-83595,Linda,Flores,35,Female,Burlington,VT,$30k-$50k,Librarian,"Jul 2, 2021",1275.76,9,Text,linda_flores@icloud.com,(958) 785-5581,,,,,,,,,,,,
+RS-21327,william,Lopez,66,Male,Reno,NV,$75k-$100k,Firefighter,10/24/2022,2511.81,18,EMAIL,william_lopez@yahoo.com,(237) 563-4081,Hiking|Backpacking|Cycling,1-2 times a month,RENTS,Yes,under 50,N,NO,TikTok,Friend/Family Referral,9,5,Both
+RS-71972,TIMOTHY,Young,55,Prefer not to say,Boulder,CO,<$30k,Marketing Manager,11/13/2019,2883.22,10,Phone,timothy80@gmail.com,(627) 273-6983,,,,,,,,,,,,
+RS-52304,John,Davis,53,Prefer not to say,Salt Lake City,UT,$50k-$75k,Photographer,03/13/2021,2635.57,3,email,jdavis@yahoo.com,(883) 380-1431,,,,,,,,,,,,
+RS-35612,Betty,Adams,60,Prefer not to say,Reno,NV,$50k-$75k,Consultant,08/08/2015,1426.28,11,EMAIL,adamsb@gmail.com,(275) 466-1491,,,,,,,,,,,,
+RS-52646,LISA,Clark,,Male,OGDEN,Utah,$75k-$100k,Financial Advisor,11/5/2022,153.71,16,TEXT,lclark148@hotmail.com,(914) 652-3900,,,,,,,,,,,,
+RS-16198,Andrew,Harris,41,Female,Santa Fe,NM,$75k-$100k,Pharmacist,2022-11-18,1826.35,12,PHONE,harrisa@gmail.com,(840) 248-6597,,,,,,,,,,,,
+RS-13847,Kevin,Lewis,54,Prefer not to say,ASHEVILLE,NC,$30k-$50k,Physical Therapist,04/24/2016,771.43,5,Email,kevin42@yahoo.com,(937) 427-5444,,,,,,,,,,,,
+RS-18146,Shirley,Ramirez,70,Female,Fairbanks,Alaska,<$30k,,08/02/2018,500.26,11,phone call,sramirez@icloud.com,(704) 124-7798,,,,,,,,,,,,
+RS-18299,Ryan,Hall,31,Female,Boulder,Colorado,$30k-$50k,Lawyer,06/22/2021,1674.44,12,email,rhall337@yahoo.com,(515) 373-7846,Surfing|Hunting|Snowboarding|Rock Climbing,Weekly,RENTS,no,$300-$500,Yes,N,Twitter/X|None,Trade Show,2,4,In store
+RS-97580,Timothy,thompson,39,Non-binary,Denver,CO,$100k-$150k,Dentist,08/26/2022,2090.77,16,text,tthompson370@outlook.com,(477) 413-5118,Cycling|Camping,Weekly,owns,yes,300-500,Sometimes,Y,YouTube,In-Store Display,3,5,Both
+RS-52714,Timothy,Jackson,54,Female,Boulder,CO,$50k-$75k,Marketing Manager,11/16/2021,1993.06,3,e-mail,timothy65@icloud.com,(908) 528-9907,Surfing|SUP|Trail Running,3-4x/month,Rents,yes,under 50,No,Yes,Reddit|None|TikTok,Podcast,2,5,Online only
+RS-63429,James,Thompson,43,Male,Seattle,wa,$100k-$150k,Mechanic,"Dec 10, 2018",1236.09,16,Phone,thompsonj@aol.com,(751) 686-9955,,,,,,,,,,,,
+RS-66093,Matthew,Jones,41,Prefer not to say,Ogden,UT,<$30k,Lawyer,2018-06-07,2189.34,19,phone call,matthew_jones@hotmail.com,(614) 596-9379,,,,,,,,,,,,
+RS-81854,Maria,Ramirez,48,Prefer not to say,Albuquerque,NM,$30k-$50k,Librarian,9/14/2021,,6,phone call,ramirezm@aol.com,(402) 254-7738,,,,,,,,,,,,
+RS-91965,Laura,Hill,62,Female,Colorado Springs,CO,<$30k,Accountant,07/13/2019,2600.52,15,EMAIL,lhill357@gmail.com,(891) 901-1425,,,,,,,,,,,,
+RS-73809,Andrew,Jones,0,Male,COLORADO SPRINGS,CO,<$30k,,9/22/2019,470.8,3,Email,andrew_jones@yahoo.com,(852) 495-7923,,,,,,,,,,,,
+RS-52534,Ryan,Rivera,31,Non-binary,Cheyenne,WY,<$30k,Construction Manager,"Jun 27, 2018",1936.38,6,email,ryan44@outlook.com,(570) 872-3608,,,,,,,,,,,,
+RS-79397,Donald,Torres,28,Female,Colorado Springs,C.O.,$75k-$100k,Real Estate Agent,2023-04-28,651.35,3,phone call,dtorres191@hotmail.com,(307) 353-8111,,,,,,,,,,,,
+RS-30242,Catherine,Rivera,31,Female,Denver,Col.,$100k-$150k,Journalist,"Jun 17, 2023",1962.71,16,Email,crivera@outlook.com,(411) 329-3459,,,,,,,,,,,,
+RS-17100,Gregory,Nelson,39,Male,Billings,Mont.,<$30k,Librarian,1/3/2023,680.55,13,,gregory55@outlook.com,(948) 902-8973,Rock Climbing|Hiking|Mountain Biking,1-2x/month,OWNS,Yes,<$50,no,NO,TikTok|Instagram|Twitter/X,Friend/Family Referral,2,2,IN-STORE
+RS-89058,Nicole,King,27,Prefer not to say,Boise,ID,$100k-$150k,HR Manager,8/10/2021,1300.3,19,Text,nicole43@icloud.com,,,,,,,,,,,,,
+RS-94922,Larry,Gonzalez,47,Male,Asheville,NC,$50k-$75k,Marketing Manager,"Jul 13, 2015",2447.76,7,Text,lgonzalez@yahoo.com,(641) 323-2740,,,,,,,,,,,,
+RS-75239,Amy,Gonzalez,30,,Boulder,CO,$100k-$150k,Project Manager,9/26/2020,0,3,TEXT,agonzalez@gmail.com,(549) 505-1477,,,,,,,,,,,,
+RS-80702,Michael,White,20,Female,Tacoma,WA,<$30k,Police Officer,06/06/2019,967.56,19,EMAIL,whitem@gmail.com,(842) 348-2669,,,,,,,,,,,,
+RS-72414,Kimberly,Torres,26,Female,Billings,MT,$50k-$75k,Electrician,10/11/2017,2706.27,3,email,kimberly_torres@aol.com,(996) 160-8761,Cycling,1-2 times a month,Own,NO,$150-$300,N,Y,None|TikTok,Email Campaign,4,5,In-Store
+RS-47118,Gregory,Mitchell,40,Male,Missoula,MT,$100k-$150k,Construction Manager,2/21/2021,673.14,6,phone,gregory34@gmail.com,(631) 283-3679,,,,,,,,,,,,
+RS-43947,Susan,Williams,27,Male,Fort Collins,CO,$100k-$150k,,2022-08-14,2366.88,100,TEXT,susan_williams@outlook.com,(610) 156-2485,,,,,,,,,,,,
+RS-68077,Jack,Jackson,54,Non-binary,PORTLAND,OR,$100k-$150k,Accountant,2023-04-25,,1,email,jjackson96@hotmail.com,(821) 428-7583,,,,,,,,,,,,
+RS-58637,Elizabeth,Scott,61,Male,Salt Lake City,Utah,<$30k,Firefighter,2016-12-25,2126.12,11,EMAIL,elizabeth_scott@outlook.com,(725) 609-8635,SUP|Cycling|Rock Climbing|Hunting,1-2 times a month,RENTS,Yes,$300-$500,Y,yes,Twitter/X,Email Campaign,10,3,Both
+RS-63799,Michael,Perez,,Non-binary,Santa Fe,NM,<$30k,Civil Engineer,04/26/2018,2357.58,13,phone call,michael90@outlook.com,(311) 506-6472,,,,,,,,,,,,
+RS-49375,David,Brown,42,Male,Missoula,Montana,<$30k,Journalist,5/26/2020,2496.26,2,TEXT,david_brown@icloud.com,(786) 836-9501,,,,,,,,,,,,
+RS-89793,Nancy,Robinson,28,Female,Boulder,CO,$100k-$150k,Geologist,"Mar 19, 2017",2600.82,2,text,nrobinson248@hotmail.com,(674) 784-3525,,,,,,,,,,,,
+RS-55485,Sandra,Brown,27,Prefer not to say,Anchorage,AK,$30k-$50k,Construction Manager,2/3/2015,322.29,9,TEXT,sbrown@gmail.com,(749) 115-2775,,,,,,,,,,,,
+RS-64344,Kevin,Mitchell,44,,Fort Collins,Col.,,Accountant,09/13/2017,2472.84,20,PHONE,kevin19@icloud.com,(985) 286-9369,,,,,,,,,,,,
+RS-26671,Rachel,Miller,,Female,Burlington,vt,<$30k,Accountant,2018-08-15,333.06,3,phone call,rmiller435@gmail.com,(902) 860-2212,,,,,,,,,,,,
+RS-18296,Edward,Rivera,60,Female,Ogden,U.T.,$50k-$75k,Surveyor,2/1/2018,291.71,13,phone call,erivera199@hotmail.com,(590) 478-4056,,,,,,,,,,,,
+RS-21590,Dennis,Martinez,50,Non-binary,Colorado Springs,CO,,Personal Trainer,"Feb 2, 2015",1033.78,16,Email,dmartinez533@aol.com,(254) 818-4359,,,,,,,,,,,,
+RS-95466,Robert,Thomas,18,Male,Missoula,MT,<$30k,Veterinarian,"Jul 1, 2023",1515.08,18,Phone,robert93@icloud.com,(758) 771-4281,Camping|Cycling|Backpacking|Rock Climbing,once a week,Owns,No,$150-$300,Y,Y,Twitter/X,In-Store Display,7,2,ONLINE
+RS-98511,Catherine,Taylor,39,Female,Santa Fe,NM,,Electrician,"Apr 24, 2020",,20,email,ctaylor@aol.com,(288) 976-3128,,,,,,,,,,,,
+RS-30461,Sarah,Moore,69,Prefer not to say,Bozeman,MT,$150k+,Electrician,2019-01-24,2324.16,14,Phone,moores@aol.com,(816) 111-7266,Cycling,Weekly,OWNS,NO,$300-$500,No,Yes,Reddit|YouTube|Twitter/X,Email Campaign,7,4,Both
+RS-79791,Angela,Jones,35,Male,seattle,WA,$100k-$150k,Personal Trainer,"May 23, 2018",184.56,5,phone,angela_jones@gmail.com,(454) 943-4440,,,,,,,,,,,,
+RS-59531,Brian,Adams,51,Prefer not to say,Portland,Oregon,$50k-$75k,Social Worker,10/13/2017,,8,e-mail,badams815@outlook.com,(990) 739-9615,Hiking,Rarely,Owns,No,50 to 150,Sometimes,No,Instagram|TikTok|Pinterest,In-Store Display,3,4,In store
+RS-45532,Jennifer,Jones,60,,Santa Fe,New Mexico,$75k-$100k,Civil Engineer,2018-10-27,1182.35,3,text,,(277) 448-7499,,,,,,,,,,,,
+RS-45349,Betty,THOMPSON,47,Non-binary,Missoula,MT,$100k-$150k,Pilot,2018-02-14,1446.79,100,email,betty29@icloud.com,(805) 252-1083,,,,,,,,,,,,
+RS-19835,Dorothy,Thompson,62,Female,Asheville,nc,$75k-$100k,Plumber,2018-10-16,2206.05,10,text,thompsond@aol.com,(410) 811-2278,Hiking|Rock Climbing|Hunting|Backpacking,Daily,Own,N,$300-$500,yes,No,YouTube|Reddit,Email Campaign,6,3,In store
+RS-17179,Edward,Green,43,Prefer not to say,JACKSON,WY,$150k+,Librarian,9/20/2018,2728.19,17,TEXT,edward_green@gmail.com,(617) 779-2930,,,,,,,,,,,,
+RS-24860,Deborah,Moore,70,Prefer not to say,Knoxville,Tennessee,$100k-$150k,Surveyor,11/14/2018,2641.98,3,Text,,(238) 189-2200,Trail Running|Camping|Mountain Biking,Daily,rents,N,50 to 150,yes,YES,Pinterest|Instagram,Podcast,9,,In-Store
+RS-24559,MARK,Davis,32,Prefer not to say,Cheyenne,Wyoming,$30k-$50k,Police Officer,"Dec 20, 2019",1534.56,10,email,mdavis@yahoo.com,(666) 245-1208,,,,,,,,,,,,
+RS-64106,Melissa,Thompson,26,,Denver,co,<$30k,Construction Manager,"Jan 5, 2015",651.92,13,TEXT,melissa43@yahoo.com,(843) 793-8722,,,,,,,,,,,,
+RS-54658,Anthony,Rivera,68,Female,SPOKANE,WA,$100k-$150k,Plumber,06/18/2022,2869.86,20,EMAIL,arivera@gmail.com,(342) 694-1003,,,,,,,,,,,,
+RS-81568,Betty,Thompson,35,Female,CONCORD,NH,$50k-$75k,Data Analyst,8/21/2015,2183.84,19,PHONE,betty11@outlook.com,(392) 539-7843,Hunting|Trail Running|Hiking|Cycling,Weekly,Both,no,<$50,yes,N,YouTube|None,Podcast,7,5,in-store
+RS-20814,Thomas,King,34,,Portland,OR,$50k-$75k,Physical Therapist,08/06/2018,477.96,16,EMAIL,kingt@aol.com,(852) 271-4454,,,,,,,,,,,,
+RS-75585,Maria,Davis,63,Non-binary,Portland,ME,$150k+,Doctor,"Aug 16, 2023",1334.47,12,phone call,maria79@yahoo.com,(395) 491-7130,Rock Climbing,once a week,OWNS,NO,$300-$500,Yes,Y,Facebook|TikTok,In-Store Display,1,1,in-store
+RS-82794,Sharon,Garcia,34,Non-binary,Tacoma,wa,$100k-$150k,Accountant,2019-03-07,450.41,15,phone,sgarcia@gmail.com,(879) 561-7810,,,,,,,,,,,,
+RS-73123,Sharon,Ramirez,63,Prefer not to say,Fort Collins,C.O.,,Physical Therapist,2022-08-22,1376.36,14,e-mail,ramirezs@gmail.com,(368) 356-7812,Fishing|Hiking|Hunting,Daily,Rent,YES,$500+,No,yes,Instagram|Reddit,Social Media,6,3,ONLINE
+RS-75454,Kevin,Walker,35,Non-binary,Tacoma,Washington,$50k-$75k,Retail Manager,2/14/2021,572.4,1,e-mail,kevin_walker@icloud.com,(549) 289-7538,,,,,,,,,,,,
+RS-57460,Jonathan,Wilson,63,Female,Boise,ID,,Personal Trainer,8/2/2021,,2,Phone,jonathan52@aol.com,(958) 997-5423,,,,,,,,,,,,
+RS-11967,Paul,Ramirez,31,Prefer not to say,Knoxville,TN,<$30k,Architect,10/24/2021,2489.68,17,Email,pramirez995@aol.com,,,,,,,,,,,,,
+RS-33183,Kenneth,Thomas,37,Female,CONCORD,nh,$50k-$75k,Data Analyst,"Jun 3, 2020",1715.48,0,text,kenneth_thomas@gmail.com,,,,,,,,,,,,,
+RS-28623,Jack,Roberts,68,Female,Cheyenne,Wyo.,$100k-$150k,Police Officer,"Aug 5, 2021",,18,email,jack56@hotmail.com,(363) 599-1979,,,,,,,,,,,,
+RS-48747,Janet,Brown,36,Prefer not to say,Anchorage,AK,$50k-$75k,,2021-02-12,1367.72,15,Phone,janet26@outlook.com,(664) 391-3668,,,,,,,,,,,,
+RS-38130,Carolyn,Baker,55,Male,Ogden,U.T.,$50k-$75k,Professor,03/07/2019,2240.8,16,EMAIL,cbaker500@yahoo.com,(706) 384-1988,Snowboarding,3-4x/month,RENTS,N,<$50,yes,no,TikTok,In-Store Display,2,3,Both
+RS-37784,Andrew,Young,34,Non-binary,Reno,NV,$30k-$50k,Social Worker,10/12/2023,1182.95,20,e-mail,younga@yahoo.com,(301) 176-9955,,,,,,,,,,,,
+RS-83574,Brian,Garcia,36,Prefer not to say,Asheville,North Carolina,<$30k,Pharmacist,4/13/2022,414.31,4,Text,brian53@icloud.com,(422) 528-5569,,,,,,,,,,,,
+RS-15027,Sharon,Miller,53,Male,Denver,Col.,$50k-$75k,Optometrist,5/5/2022,1573.1,14,TEXT,millers@gmail.com,(469) 728-7230,,,,,,,,,,,,
+RS-15695,Janet,Walker,53,Non-binary,TACOMA,WA,$50k-$75k,Real Estate Agent,"May 15, 2021",2027.02,3,Text,walkerj@yahoo.com,(476) 755-4598,,,,,,,,,,,,
+RS-20030,Barbara,King,18,Female,Ogden,UT,$50k-$75k,Sales Representative,2015-05-09,1985.35,3,EMAIL,barbara90@outlook.com,(450) 491-1282,,,,,,,,,,,,
+RS-85066,Timothy,Phillips,66,Prefer not to say,Provo,UT,$75k-$100k,Pilot,"Oct 4, 2020",963.3,7,email,phillipst@outlook.com,(994) 540-7622,,,,,,,,,,,,
+RS-20709,Joshua,Campbell,34,Male,Provo,UT,$30k-$50k,Project Manager,12/26/2023,2742.16,18,e-mail,jcampbell158@icloud.com,(951) 860-6185,Fishing|Snowboarding|Cycling|Camping,3+ times per week,rents,NO,<$50,yes,yes,None|Pinterest|Twitter/X,Friend/Family Referral,,2,IN-STORE
+RS-53017,EMMA,Wilson,54,Non-binary,Las Vegas,NV,<$30k,Civil Engineer,"Nov 25, 2023",2337.71,11,Email,wilsone@gmail.com,(772) 979-1894,,,,,,,,,,,,
+RS-42638,Eric,Wilson,22,Female,Bend,OR,$150k+,Pilot,7/10/2019,2281.61,17,Phone,eric_wilson@gmail.com,(241) 941-7392,,,,,,,,,,,,
+RS-94105,Kathleen,Clark,70,,Chattanooga,TN,$150k+,Electrician,10/23/2015,2560.28,4,phone call,kathleen_clark@gmail.com,(484) 973-4181,,,,,,,,,,,,
+RS-32049,Linda,Miller,25,Non-binary,Anchorage,AK,,Optometrist,2017-11-24,2028.67,13,phone call,lmiller@gmail.com,(324) 600-9351,Kayaking|Surfing|SUP|Camping,Weekly,RENTS,YES,50 to 150,Sometimes,yes,Pinterest,Friend/Family Referral,9,1,IN-STORE
+RS-92789,Deborah,Lopez,20,Female,Boise,id,$150k+,,"May 14, 2021",2881.92,1,Phone,dlopez522@aol.com,(482) 439-3199,,,,,,,,,,,,
+RS-50668,Catherine,Thompson,58,Female,Las Vegas,Nevada,$100k-$150k,Geologist,2022-08-25,1946.83,11,Phone,catherine_thompson@outlook.com,(560) 619-2215,,,,,,,,,,,,
+RS-15796,Jennifer,Young,43,Male,FAIRBANKS,AK,$150k+,Police Officer,04/21/2019,99999,19,Email,jennifer91@yahoo.com,(579) 741-8607,,,,,,,,,,,,
+RS-15018,Charles,Flores,42,Male,Reno,NV,,Physical Therapist,7/4/2016,1865.97,2,PHONE,charles96@outlook.com,(390) 383-9217,,,,,,,,,,,,
+RS-39334,Kenneth,Torres,46,Non-binary,Concord,NH,$75k-$100k,Marketing Manager,12/17/2017,1691.97,9,,torresk@gmail.com,(530) 711-1833,,,,,,,,,,,,
+RS-69809,Brian,Rivera,70,Female,Jackson,Wyo.,$100k-$150k,Nurse,"May 21, 2017",2193.29,14,TEXT,brian_rivera@gmail.com,(716) 884-6341,,,,,,,,,,,,
+RS-85225,Cynthia,Green,61,Non-binary,Asheville,NC,<$30k,Pilot,2023-12-24,916.75,1,EMAIL,greenc@icloud.com,(534) 645-8499,,,,,,,,,,,,
+RS-28582,Cynthia,Carter,29,Female,Provo,UT,<$30k,Physical Therapist,"Mar 19, 2021",2207.12,14,email,ccarter907@yahoo.com,(727) 281-9904,,,,,,,,,,,,
+RS-40539,Anna,White,,Prefer not to say,Albuquerque,New Mexico,$30k-$50k,Graphic Designer,"Sep 14, 2018",1763.27,13,e-mail,,(333) 342-5778,,,,,,,,,,,,
+RS-26401,Catherine,Anderson,70,Male,Asheville,NC,<$30k,Geologist,02/04/2019,1039.64,4,e-mail,,(392) 664-4305,,,,,,,,,,,,
+RS-74867,Brandon,Scott,54,Prefer not to say,Bend,OR,$150k+,,11/17/2020,1894.34,9,phone call,brandon_scott@hotmail.com,(834) 439-8481,,,,,,,,,,,,
+RS-61061,Nancy,Flores,35,Prefer not to say,Billings,mt,<$30k,Graphic Designer,8/17/2015,2210.7,5,Phone,nflores145@aol.com,(237) 570-7350,,,,,,,,,,,,
+RS-38687,Dennis,Lewis,26,Non-binary,Idaho Falls,ID,$50k-$75k,Accountant,10/11/2017,1555.29,9,Email,lewisd@aol.com,(304) 507-8707,,,,,,,,,,,,
+RS-67954,Gregory,Anderson,65,Male,Phoenix,AZ,$30k-$50k,Real Estate Agent,1/2/2017,2317.04,19,EMAIL,andersong@yahoo.com,(205) 868-2746,,,,,,,,,,,,
+RS-27373,Eric,Lee,52,Male,SANTA FE,NM,$75k-$100k,Firefighter,"Oct 16, 2018",2590.36,7,phone call,eric33@gmail.com,(815) 377-9070,,,,,,,,,,,,
+RS-59560,Nicole,Williams,51,Male,FLAGSTAFF,az,$30k-$50k,Graphic Designer,2018-02-14,0,12,EMAIL,nicole97@hotmail.com,(241) 492-4831,,,,,,,,,,,,
+RS-75481,Samantha,FLORES,42,Prefer not to say,Boise,ID,<$30k,,04/02/2019,895.14,14,Phone,sflores166@icloud.com,(517) 180-9377,,,,,,,,,,,,
+RS-32878,brandon,Rivera,68,Prefer not to say,Denver,CO,$100k-$150k,Professor,11/22/2022,2400.01,16,Text,brivera@gmail.com,(491) 314-8121,,,,,,,,,,,,
+RS-38717,Cynthia,Lopez,47,Non-binary,Boise,ID,$150k+,Mechanic,11/9/2023,,17,EMAIL,,(463) 209-3424,,,,,,,,,,,,
+RS-37724,Emma,Perez,21,Male,Eugene,Oregon,,Geologist,12/22/2017,645.27,20,TEXT,emma5@hotmail.com,(735) 585-4532,Snowboarding|Hunting|Rock Climbing|Camping,Weekly,Both,YES,50 to 150,Y,Yes,Pinterest|None,Email Campaign,8,4,ONLINE
+RS-81657,Anna,Mitchell,46,Male,Missoula,MT,$50k-$75k,Construction Manager,2018-12-19,969.27,3,e-mail,anna_mitchell@aol.com,,Surfing|Mountain Biking,Weekly,Owns,YES,under 50,No,YES,Instagram|TikTok|None,Friend/Family Referral,7,1,online
+RS-62296,Christine,Nelson,33,Non-binary,Boulder,CO,$150k+,,6/3/2015,1640.74,19,PHONE,nelsonc@gmail.com,(641) 462-7939,,,,,,,,,,,,
+RS-60818,Samantha,Clark,67,Prefer not to say,Eugene,Oregon,$30k-$50k,Firefighter,12/03/2019,1619.1,16,e-mail,sclark@gmail.com,(829) 557-3513,,,,,,,,,,,,
+RS-60466,Benjamin,Brown,,Female,Seattle,WA,$150k+,Pilot,"Aug 20, 2018",873.95,11,Text,benjamin59@icloud.com,(884) 976-6609,,,,,,,,,,,,
+RS-48905,Mark,Allen,65,Male,Santa Fe,NM,$150k+,Optometrist,"Jan 26, 2021",2551.81,2,Text,mark85@outlook.com,(363) 122-9977,,,,,,,,,,,,
+RS-35168,Angela,Jackson,,Female,Colorado Springs,CO,$50k-$75k,,"Nov 3, 2022",2935.83,1,email,angela5@hotmail.com,(476) 813-7146,,,,,,,,,,,,
+RS-32449,Barbara,Lee,26,,COLORADO SPRINGS,CO,$150k+,Flight Attendant,"Oct 12, 2022",2287.29,15,Phone,barbara59@gmail.com,(859) 827-8625,,,,,,,,,,,,
+RS-58033,Edward,Baker,31,Non-binary,Salt Lake City,UT,$50k-$75k,HR Manager,"Dec 9, 2022",486.67,12,phone,bakere@icloud.com,(686) 830-8206,,,,,,,,,,,,
+RS-72460,Benjamin,Miller,53,Non-binary,Las Vegas,NV,$100k-$150k,Geologist,2019-06-11,281.3,5,phone call,benjamin_miller@hotmail.com,(785) 514-2168,Rock Climbing|Cycling|SUP,Rarely,rents,N,$500+,yes,N,None|YouTube|Facebook,Google Search,3,3,In-Store
+RS-22934,Margaret,King,29,Male,Spokane,WA,$75k-$100k,Mechanic,2016-09-05,1693.54,4,PHONE,margaret_king@aol.com,(654) 331-7672,,,,,,,,,,,,
+RS-28993,George,Young,,Male,Colorado Springs,CO,$50k-$75k,Social Worker,9/28/2016,2733.88,9,email,youngg@hotmail.com,(985) 759-7656,,,,,,,,,,,,
+RS-84976,Nicole,young,20,Non-binary,Billings,Mont.,,Civil Engineer,12/22/2022,936.42,11,EMAIL,nyoung@yahoo.com,(616) 858-8937,,,,,,,,,,,,
+RS-88476,Edward,Smith,49,Non-binary,Billings,Mont.,<$30k,Sales Representative,03/25/2021,540.28,2,PHONE,esmith153@hotmail.com,(760) 528-7543,Skiing,Rarely,rents,NO,under 50,no,N,TikTok|Facebook|None,Email Campaign,10,3,Online only
+RS-55026,Katherine,Torres,61,Male,Concord,NH,<$30k,Project Manager,12/10/2018,1171.79,8,phone,torresk@outlook.com,(573) 644-4864,Rock Climbing|Hiking|Surfing,Daily,Rents,No,under 50,N,NO,Instagram|TikTok,In-Store Display,8,4,in-store
+RS-95890,karen,King,57,Prefer not to say,Tacoma,Wash.,$150k+,Consultant,2016-04-01,,9,TEXT,karen20@yahoo.com,(641) 620-6467,Cycling|Camping|Hiking,3+ times per week,RENTS,yes,$500+,No,YES,Twitter/X,Email Campaign,9,1,online
+RS-21535,Jeffrey,Taylor,53,Non-binary,Boulder,CO,$50k-$75k,HR Manager,2018-03-11,637.01,20,Email,jeffrey51@hotmail.com,(249) 951-9657,Hiking|Mountain Biking|Skiing,1-2x/month,Rent,Y,300-500,Sometimes,N,Facebook|Pinterest|Instagram,Friend/Family Referral,2,5,In-Store
+RS-39548,Michelle,White,21,Non-binary,Fairbanks,AK,$150k+,Pharmacist,11/23/2020,307.56,3,phone,whitem@hotmail.com,(409) 633-1371,,,,,,,,,,,,
+RS-16086,Jennifer,Nelson,35,Non-binary,Concord,NH,<$30k,Architect,"Sep 13, 2018",2388.34,0,email,jennifer_nelson@yahoo.com,(361) 470-2938,,,,,,,,,,,,
+RS-31641,Pamela,Brown,,Female,Chattanooga,TN,<$30k,Construction Manager,"Dec 14, 2015",2855.06,17,Email,brownp@aol.com,(982) 636-4687,Hunting|Fishing|Trail Running,1-2 times a month,Owns,N,300-500,yes,yes,Facebook|TikTok,Outdoor Magazine,2,4,in-store
+RS-15572,Betty,Miller,20,Male,Ogden,UT,$30k-$50k,Teacher,"Oct 12, 2019",2199.23,4,Email,millerb@outlook.com,(972) 650-1070,,,,,,,,,,,,
+RS-30365,Jonathan,Perez,61,Non-binary,Anchorage,AK,$75k-$100k,Construction Manager,11/24/2019,2119.42,17,phone,perezj@aol.com,(475) 850-2934,,,,,,,,,,,,
+RS-70435,Dorothy,Thompson,62,Female,Asheville,nc,$75k-$100k,Plumber,2018-10-16,2206.05,10,text,thompsond@aol.com,(410) 811-2278,Hiking|Rock Climbing|Hunting|Backpacking,Daily,Own,N,$300-$500,yes,No,YouTube|Reddit,Email Campaign,6,3,In store
+RS-23875,JACK,Martinez,18,Male,Colorado Springs,CO,$75k-$100k,Librarian,2015-09-06,2012.21,12,text,jack_martinez@icloud.com,(695) 238-7208,Cycling,Weekly,Rents,NO,300-500,yes,no,Facebook|YouTube|Instagram,Email Campaign,8,4,Both
+RS-12185,Kevin,Hall,55,Non-binary,Portland,me,<$30k,Nutritionist,2019-02-06,2081.71,1,TEXT,kevin_hall@hotmail.com,(913) 188-8585,Fishing,3-4x/month,Both,Y,<$50,N,yes,YouTube,Online Ad,4,2,Both
+RS-58963,Emma,Miller,63,Prefer not to say,TUCSON,AZ,$150k+,HR Manager,04/28/2017,2404.53,20,EMAIL,millere@hotmail.com,(413) 266-7365,,,,,,,,,,,,
+RS-99751,Joshua,Green,30,Female,Seattle,WA,$150k+,Project Manager,2019-04-09,1143.83,11,EMAIL,joshua98@gmail.com,(256) 518-6793,,,,,,,,,,,,
+RS-98063,Amanda,King,53,Male,Chattanooga,tn,$150k+,Geologist,"Apr 24, 2020",1146.46,4,phone call,aking493@gmail.com,(712) 222-7253,,,,,,,,,,,,
+RS-65856,Jerry,Smith,47,Female,Fairbanks,Alaska,$75k-$100k,Contractor,,695.68,5,text,jsmith@outlook.com,(728) 918-6082,,,,,,,,,,,,
+RS-76115,Deborah,Davis,22,Prefer not to say,MISSOULA,MT,$100k-$150k,Financial Advisor,2017-05-19,1526.28,18,email,deborah58@icloud.com,,,,,,,,,,,,,
+RS-90614,Emily,Scott,21,Non-binary,Tucson,AZ,$150k+,Plumber,10/20/2020,2220.37,7,phone,scotte@yahoo.com,(333) 834-8191,,,,,,,,,,,,
+RS-28664,Emily,Robinson,,Female,Missoula,MT,$30k-$50k,Chef,1/27/2016,377.36,8,text,erobinson912@icloud.com,(928) 166-2941,SUP|Rock Climbing,Daily,Rent,N,under 50,Sometimes,YES,YouTube|Instagram|Twitter/X,Outdoor Magazine,5,3,online
+RS-84379,Larry,Green,18,Prefer not to say,Portland,ME,$150k+,Construction Manager,2015-06-26,278.73,20,Email,greenl@hotmail.com,(982) 467-8447,,,,,,,,,,,,
+RS-14089,Helen,Brown,37,Female,Ogden,Utah,$50k-$75k,Project Manager,"Jan 4, 2019",2800.12,4,phone call,helen2@yahoo.com,(942) 340-8458,,,,,,,,,,,,
+RS-73748,Dorothy,Thompson,53,Female,Burlington,VT,$75k-$100k,Plumber,09/02/2016,655.89,15,PHONE,dthompson@yahoo.com,(542) 938-3257,Snowboarding|Skiing,1-2x/month,owns,YES,under 50,Sometimes,yes,Twitter/X,Online Ad,7,2,Both
+RS-86585,Amy,Adams,49,Prefer not to say,Seattle,Washington,$100k-$150k,Plumber,8/2/2022,2857.87,4,phone,,(580) 412-7135,,,,,,,,,,,,
+RS-15697,Patrick,Thomas,39,Male,Missoula,MT,$30k-$50k,Marketing Manager,2016-01-16,1897.58,4,text,patrick_thomas@icloud.com,(274) 894-8184,,,,,,,,,,,,
+RS-30896,Pamela,Martinez,43,Prefer not to say,Portland,OR,$50k-$75k,Lawyer,"Aug 4, 2020",1667.93,13,text,pmartinez@yahoo.com,(664) 259-4085,,,,,,,,,,,,
+RS-57026,Emma,Johnson,27,Female,knoxville,TN,$100k-$150k,Personal Trainer,10/7/2020,2417.15,5,Text,ejohnson993@outlook.com,,,,,,,,,,,,,
+RS-49117,Joseph,Flores,19,Female,Boulder,Colorado,$30k-$50k,Civil Engineer,2017-01-08,2153.03,5,Email,floresj@aol.com,(502) 483-1870,,,,,,,,,,,,
+RS-77149,Pamela,Jones,48,Female,Portland,ME,<$30k,Police Officer,2016-06-10,646.78,20,EMAIL,pjones253@gmail.com,(658) 971-6198,Hunting|Fishing|Surfing,3-4x/month,rents,No,<$50,N,N,None,Podcast,2,5,In store
+RS-71592,Angela,Allen,62,Female,Chattanooga,Tenn.,<$30k,Veterinarian,10/17/2019,2726.29,10,text,angela34@outlook.com,(885) 774-4085,,,,,,,,,,,,
+RS-24663,Barbara,Rivera,55,Prefer not to say,Eugene,or,$50k-$75k,Financial Advisor,2020-09-28,2781.0,6,Email,barbara_rivera@hotmail.com,(952) 930-5065,,,,,,,,,,,,
+RS-90931,Barbara,Hernandez,58,Male,Portland,Oregon,<$30k,Graphic Designer,,197.5,17,email,barbara91@icloud.com,(494) 849-2003,,,,,,,,,,,,
+RS-84232,Nicholas,Jones,39,Prefer not to say,TUCSON,Arizona,$75k-$100k,Nurse,4/14/2017,497.36,7,,,(471) 844-8907,,,,,,,,,,,,
+RS-65836,Jack,DAVIS,28,Prefer not to say,TUCSON,AZ,$30k-$50k,Data Analyst,2019-07-23,2400.88,2,Text,jdavis831@hotmail.com,(648) 285-7221,,,,,,,,,,,,
+RS-38437,PATRICIA,Perez,30,Non-binary,Phoenix,AZ,$30k-$50k,Firefighter,"Jul 4, 2019",2180.08,20,text,pperez449@hotmail.com,(561) 482-2052,,,,,,,,,,,,
+RS-52160,melissa,Williams,70,Male,MISSOULA,MT,<$30k,Dentist,2021-05-22,2064.5,15,Text,melissa_williams@yahoo.com,(852) 848-3856,,,,,,,,,,,,
+RS-88275,STEVEN,Jones,56,Male,Denver,Col.,$30k-$50k,Librarian,2017-05-06,439.16,5,text,,(487) 865-6907,,,,,,,,,,,,
+RS-90847,Maria,Walker,49,Male,Billings,MT,$150k+,Real Estate Agent,4/4/2020,1157.82,16,EMAIL,mwalker192@hotmail.com,(339) 568-4181,,,,,,,,,,,,
+RS-15259,Betty,Hill,41,Female,Cheyenne,WY,$100k-$150k,Architect,"Oct 9, 2018",1208.27,15,phone call,betty24@yahoo.com,(596) 923-2748,,,,,,,,,,,,
+RS-55839,Susan,Jones,31,Non-binary,Jackson,Wyo.,$50k-$75k,Project Manager,08/10/2020,2794.41,20,text,sjones739@icloud.com,(420) 487-1534,,,,,,,,,,,,
+RS-98447,Raymond,Clark,,Non-binary,Bend,OR,$30k-$50k,Geologist,08/10/2022,160.74,5,text,clarkr@yahoo.com,(824) 387-7916,,,,,,,,,,,,
+RS-38701,Ashley,Thomas,36,Male,Chattanooga,TN,$75k-$100k,Personal Trainer,"Dec 9, 2021",1142.17,11,Phone,thomasa@outlook.com,(919) 352-9819,,,,,,,,,,,,
+RS-68135,Carolyn,Lee,59,Non-binary,Santa Fe,NM,$150k+,Optometrist,3/27/2018,412.11,2,PHONE,carolyn3@gmail.com,(234) 376-5554,,,,,,,,,,,,
+RS-96411,Patricia,Adams,52,Male,Billings,Mont.,$75k-$100k,Professor,11/17/2019,2913.0,10,Text,patricia67@outlook.com,(438) 684-8214,,,,,,,,,,,,
+RS-76029,Stephen,Carter,34,Non-binary,Fort Collins,CO,$75k-$100k,Social Worker,06/23/2015,73.3,4,text,stephen24@icloud.com,(649) 928-8478,,,,,,,,,,,,
+RS-13105,Sandra,Mitchell,60,Female,Idaho Falls,ID,$75k-$100k,Firefighter,04/05/2017,2395.94,14,phone,mitchells@yahoo.com,(820) 354-5966,,,,,,,,,,,,
+RS-89249,Stephanie,Gonzalez,19,Female,TUCSON,az,$150k+,Marketing Manager,"Oct 14, 2022",1695.09,15,PHONE,gonzalezs@aol.com,(612) 133-2287,,,,,,,,,,,,
+RS-47083,Dorothy,Green,45,Non-binary,Knoxville,TN,$75k-$100k,,2018-03-02,1337.47,2,TEXT,dorothy93@gmail.com,(326) 457-2533,Fishing|Hunting|Surfing,Rarely,owns,Yes,$150-$300,yes,No,None,Friend/Family Referral,1,1,IN-STORE
+RS-97392,Brandon,Young,-1,,Portland,ME,$150k+,Chef,9/5/2016,2454.88,12,PHONE,youngb@outlook.com,(282) 769-1519,Skiing|Trail Running|Snowboarding|Hiking,1-2x/month,Both,No,300-500,N,YES,Pinterest|Twitter/X|Instagram,Email Campaign,4,5,In store
+RS-36946,Betty,Roberts,61,Non-binary,Boise,ID,$50k-$75k,Teacher,"Mar 28, 2018",1196.29,20,PHONE,broberts824@outlook.com,(454) 179-2757,,,,,,,,,,,,
+RS-55327,Stephanie,Garcia,43,Prefer not to say,Knoxville,TN,$100k-$150k,Real Estate Agent,"Mar 4, 2015",717.71,12,TEXT,sgarcia@outlook.com,(244) 213-1786,,,,,,,,,,,,
+RS-30050,David,Nguyen,37,Non-binary,Albuquerque,NM,$150k+,Firefighter,"Jun 1, 2021",1388.17,5,Phone,nguyend@outlook.com,(620) 781-3251,,,,,,,,,,,,
+RS-49515,Patrick,Young,20,Prefer not to say,Flagstaff,AZ,$50k-$75k,HR Manager,2016-07-03,1536.41,,Text,pyoung823@gmail.com,(394) 858-7512,,,,,,,,,,,,
+RS-13442,Elizabeth,White,42,,Jackson,WY,$30k-$50k,Lawyer,"Mar 9, 2017",543.26,3,email,elizabeth79@icloud.com,(309) 238-5991,Cycling|Mountain Biking|Skiing|Hunting,once a week,OWNS,N,$150-$300,Sometimes,N,YouTube|None|TikTok,Google Search,6,4,online
+RS-11447,Lisa,Perez,25,Prefer not to say,Chattanooga,TN,$30k-$50k,Dentist,2019-10-07,,13,email,lperez481@hotmail.com,(240) 854-2492,,,,,,,,,,,,
+RS-24416,Debra,Torres,39,Female,Missoula,MT,<$30k,Plumber,2019-10-27,1737.87,4,Text,debra45@yahoo.com,(894) 907-9711,,,,,,,,,,,,
+RS-25675,Katherine,Wilson,18,Female,Tacoma,WA,<$30k,Professor,02/26/2023,771.84,8,PHONE,kwilson575@outlook.com,(960) 294-2043,,,,,,,,,,,,
+RS-48894,Susan,King,,Female,Anchorage,Alaska,$75k-$100k,Plumber,"Apr 4, 2016",399.14,2,Text,susan_king@icloud.com,(635) 253-5940,,,,,,,,,,,,
+RS-17780,Larry,White,63,Non-binary,Burlington,VT,$75k-$100k,Veterinarian,12/28/2017,2494.02,16,phone call,larry58@hotmail.com,,,,,,,,,,,,,
+RS-74108,Jack,Flores,31,Non-binary,chattanooga,TN,$75k-$100k,Electrician,"Feb 14, 2019",1968.78,1,phone,jack_flores@gmail.com,(454) 281-1151,Fishing|Surfing,once a week,Owns,Yes,$300-$500,N,Y,Reddit|None,Google Search,3,2,Both
+RS-61177,Jacob,Williams,19,Male,Las Vegas,NV,<$30k,Photographer,2017-11-15,236.15,10,email,jacob_williams@outlook.com,(756) 584-5150,Kayaking|Cycling,1-2x/month,OWNS,no,$50-$150,N,N,Reddit|Pinterest,Trade Show,7,2,In store
+RS-41025,Brandon,Davis,33,Non-binary,Concord,NH,$75k-$100k,Electrician,10/09/2018,1102.85,1,phone call,brandon_davis@yahoo.com,(360) 339-1740,,,,,,,,,,,,
+RS-90769,JEFFREY,Green,66,Male,Portland,OR,$50k-$75k,,2016-05-15,1637.12,9,e-mail,greenj@aol.com,(218) 485-9631,Hiking|Kayaking,Daily,rents,Yes,300-500,Y,Yes,Reddit,In-Store Display,6,1,in-store
+RS-35430,Kevin,Thompson,20,Prefer not to say,Bend,OR,$75k-$100k,Accountant,"Oct 24, 2019",,12,Text,kthompson@outlook.com,(841) 647-3719,,,,,,,,,,,,
+RS-87415,Jonathan,Phillips,52,Male,Seattle,WA,$150k+,Professor,9/10/2019,2546.1,3,phone,jphillips478@icloud.com,(969) 136-8231,Rock Climbing|Trail Running,3+ times per week,Own,N,300-500,No,yes,None,In-Store Display,2,1,In store
+RS-83793,Pamela,Rivera,30,Female,Fairbanks,AK,$75k-$100k,Teacher,2020-09-16,2323.69,17,email,pamela_rivera@icloud.com,(784) 655-3840,,,,,,,,,,,,
+RS-39377,Kevin,Mitchell,55,Prefer not to say,Spokane,WA,$50k-$75k,Architect,2018-12-09,971.56,100,Text,kevin_mitchell@icloud.com,(845) 516-5509,,,,,,,,,,,,
+RS-18357,Anna,Brown,20,Female,Eugene,OR,$75k-$100k,Architect,"Mar 21, 2023",1209.52,1,phone,abrown554@hotmail.com,(435) 353-8546,,,,,,,,,,,,
+RS-60570,Rachel,Miller,36,Prefer not to say,DENVER,CO,$150k+,Nurse,2020-03-15,1105.36,12,TEXT,rmiller@yahoo.com,(560) 771-6558,,,,,,,,,,,,
+RS-59976,Cynthia,Carter,35,Non-binary,Provo,UT,<$30k,Social Worker,11/26/2019,996.92,15,,,,,,,,,,,,,,,
+RS-56365,Stephanie,Brown,39,Male,Idaho Falls,id,<$30k,Plumber,2019-07-22,68.62,18,Phone,stephanie_brown@yahoo.com,,,,,,,,,,,,,
+RS-50563,Janet,Johnson,24,Male,Asheville,NC,<$30k,Pharmacist,11/13/2022,1919.85,8,phone,jjohnson@aol.com,(200) 184-3215,SUP|Hunting|Mountain Biking,1-2 times a month,Owns,Yes,$150-$300,N,YES,Instagram|None|TikTok,Friend/Family Referral,3,3,in-store
+RS-54744,Paul,Williams,47,Female,Knoxville,TN,$100k-$150k,Social Worker,2022-12-14,2321.34,9,text,paul_williams@outlook.com,(303) 830-8955,Rock Climbing|Mountain Biking|Skiing|Backpacking,Rarely,Rents,YES,50 to 150,no,YES,Facebook,Friend/Family Referral,2,2,ONLINE
+RS-82512,Mary,Hall,35,Non-binary,Portland,Oregon,$50k-$75k,Chef,11/10/2016,1641.17,1,PHONE,,(514) 345-1949,Camping,once a week,Rents,NO,$150-$300,No,NO,TikTok|None|Twitter/X,Podcast,9,2,in-store
+RS-31352,Pamela,Phillips,61,Prefer not to say,Burlington,VT,<$30k,Retail Manager,"Dec 23, 2019",1078.69,17,EMAIL,pphillips@icloud.com,(583) 674-5631,,,,,,,,,,,,
+RS-67012,Janet,Clark,56,Prefer not to say,Albuquerque,New Mexico,$75k-$100k,Veterinarian,10/1/2021,2665.46,7,e-mail,clarkj@aol.com,(255) 192-6067,,,,,,,,,,,,
+RS-54503,Janet,Hill,68,Non-binary,Spokane,WA,<$30k,Sales Representative,03/28/2015,2414.78,8,email,jhill@outlook.com,(270) 313-1091,,,,,,,,,,,,
+RS-79422,Rebecca,Thomas,51,Non-binary,Boulder,CO,<$30k,Mechanic,2017-07-02,1942.32,17,EMAIL,rthomas748@outlook.com,(552) 108-5583,,,,,,,,,,,,
+RS-78673,Carol,Perez,27,Prefer not to say,Seattle,WA,$30k-$50k,Real Estate Agent,1/22/2022,2153.56,,text,carol93@hotmail.com,(634) 191-8165,,,,,,,,,,,,
+RS-44454,William,Harris,24,Prefer not to say,Portland,or,$100k-$150k,Graphic Designer,3/13/2023,2338.94,17,Text,wharris58@icloud.com,(571) 652-4775,,,,,,,,,,,,
+RS-72053,Amy,Torres,57,Non-binary,Billings,Mont.,$50k-$75k,Contractor,"Mar 9, 2021",2926.63,10,Email,amy_torres@yahoo.com,(340) 637-2640,,,,,,,,,,,,
+RS-59054,Gary,Clark,41,Non-binary,SALT LAKE CITY,UT,$75k-$100k,Lawyer,"May 25, 2021",2081.04,14,email,gary_clark@aol.com,(228) 814-3422,,,,,,,,,,,,
+RS-59968,Deborah,Baker,20,Non-binary,Ogden,UT,$150k+,Geologist,"Aug 26, 2016",1967.02,18,text,deborah5@icloud.com,(440) 746-5708,,,,,,,,,,,,
+RS-48198,Susan,White,24,Female,Reno,NV,$75k-$100k,Librarian,6/5/2018,2392.46,16,phone call,swhite878@gmail.com,(879) 770-6251,,,,,,,,,,,,
+RS-86917,Donald,Taylor,39,Male,Eugene,Oregon,$75k-$100k,Pharmacist,2/21/2015,2813.17,6,Email,donald24@hotmail.com,(496) 997-1613,Cycling,Rarely,Own,NO,300-500,No,NO,YouTube|Reddit,Friend/Family Referral,8,2,Online
+RS-91360,Emily,Nelson,-1,Non-binary,Idaho Falls,ID,$50k-$75k,,2016-05-03,2188.97,7,text,emily_nelson@aol.com,(970) 824-8417,,,,,,,,,,,,
+RS-80852,Emma,Green,51,Female,Burlington,VT,$75k-$100k,Teacher,12/01/2017,0,7,email,egreen@outlook.com,(534) 929-3940,,,,,,,,,,,,
+RS-36523,Emily,Martin,37,Prefer not to say,burlington,VT,$30k-$50k,,"Sep 22, 2021",974.0,9,Text,martine@yahoo.com,(812) 858-6186,,,,,,,,,,,,
+RS-51738,Edward,Johnson,65,,Concord,NH,$75k-$100k,Accountant,4/13/2022,,5,Text,edward_johnson@outlook.com,(288) 502-6997,Trail Running|Snowboarding|Camping,Rarely,RENTS,Sometimes,$50-$150,no,yes,TikTok,Online Ad,8,1,Online only
+RS-62976,Angela,Smith,30,Prefer not to say,Fairbanks,AK,$75k-$100k,Optometrist,"Dec 6, 2018",324.97,15,phone call,angela38@aol.com,(479) 525-8905,,,,,,,,,,,,
